@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: my-layout
 title: Les sites du Nord
 permalink: /spots
 ---
