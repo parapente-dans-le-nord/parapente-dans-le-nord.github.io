@@ -1,0 +1,11 @@
+title: Parapente dans le Nord-Pas-de-Calais
+email: parapente-dans-le-nord@proton.me
+description: >- # this means to ignore newlines until "baseurl:"
+  Les prévisions météo des principaux sites de parapente du Nord-Pas-de-Calais
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://parapente-dans-le-nord.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
