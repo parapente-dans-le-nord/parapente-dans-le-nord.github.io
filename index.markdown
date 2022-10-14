@@ -2,7 +2,7 @@
 layout: my-layout
 ---
 
-# Analyse du Jeudi 14 octobre
+# Analyse du Vendredi 14 octobre
 
 ## Samedi 15 octobre
 ### Licques
