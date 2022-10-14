@@ -2,29 +2,15 @@
 layout: my-layout
 ---
 
-# Dimanche 12 Janvier
+# Analyse du Vendredi 14 octobre
 
-### La Comté
-- 12h-15h 12-16km/h ONO Pluie: 2mm, 50% chanche
+## Samedi 15 octobre
+### Licques
+- 8h-11h : 12-22km/h, S, Pluie: 0.8
 
-### Sangatte
-- 12h-15h 12-16km/h ONO Pluie: 2mm, 50% chanche
 
-### Equihen
-- 12h-15h 12-16km/h ONO Pluie: 2mm, 50% chanche
+## Dimanche 16 octobre
+### Licques
+- 17h-20h : 11-25km/h, SE, Pluie: -
 
-# Lundi 12 Janvier
 
-### La Comté
-- 12h-15h 12-16km/h ONO Pluie: 2mm, 50% chanche
-
-### Sangatte
-- 12h-15h 12-16km/h ONO Pluie: 2mm, 50% chanche
-
-# Mardi 12 Janvier
-
-### Sangatte
-- 12h-15h 12-16km/h ONO Pluie: 2mm, 50% chanche
-
-### Equihen
-- 12h-15h 12-16km/h ONO Pluie: 2mm, 50% chanche
