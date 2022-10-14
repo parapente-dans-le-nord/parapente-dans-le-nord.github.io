@@ -1,18 +1,15 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: my-layout
 ---
-
-Bonjour et voici un exemple de page.
 
 # Dimanche 12 Janvier
 
 ### La Comté
 - 12h-15h 12-16km/h ONO Pluie: 2mm, 50% chanche
+
 ### Sangatte
 - 12h-15h 12-16km/h ONO Pluie: 2mm, 50% chanche
+
 ### Equihen
 - 12h-15h 12-16km/h ONO Pluie: 2mm, 50% chanche
 
@@ -20,6 +17,7 @@ Bonjour et voici un exemple de page.
 
 ### La Comté
 - 12h-15h 12-16km/h ONO Pluie: 2mm, 50% chanche
+
 ### Sangatte
 - 12h-15h 12-16km/h ONO Pluie: 2mm, 50% chanche
 
@@ -27,5 +25,6 @@ Bonjour et voici un exemple de page.
 
 ### Sangatte
 - 12h-15h 12-16km/h ONO Pluie: 2mm, 50% chanche
+
 ### Equihen
 - 12h-15h 12-16km/h ONO Pluie: 2mm, 50% chanche
