@@ -2,15 +2,28 @@
 layout: my-layout
 ---
 
-# Analyse du Samedi 15 octobre toto
 
-## Lundi 17 octobre
+# Prevision windy du modele Arome le dimanche 16 octobre 10:46
 
-### La Comté
+## dimanche 16 octobre
 
-[BALISE](https://balisemeteo.com/balise.php?idBalise=) -  [WINDY](https://windy.com/50.426/2.500?50.025,2.499,8)
+### Licques
 
-- 14h-17h : 12-27km/h, OSO, Pluie: -
+ [WINDY](https://windy.com/50.786/1.936?50.388,1.934,8)
+
+- 17h-20h : 16-25km/h, SSE, Pluie: 0.3
+
+
+
+## jeudi 20 octobre
+
+### Licques
+
+ [WINDY](https://windy.com/50.786/1.936?50.388,1.934,8)
+
+- 14h-17h : 14-33km/h, S, Pluie: 0.2
+
+- 17h-20h : 5-29km/h, SSE, Pluie: -
 
 
 
