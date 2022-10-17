@@ -3,8 +3,8 @@ layout: my-layout
 ---
 
 
-# Prevision windy du modele Arome le lundi 17 octobre 05H:00
-page mise a jour à lundi 17 octobre 10:13
+# Prevision windy du modele Arome le lundi 17 octobre 13H:00
+page mise a jour à lundi 17 octobre 13:13
 
 ## lundi 17 octobre
 
@@ -12,17 +12,21 @@ page mise a jour à lundi 17 octobre 10:13
 
 [BALISE](https://balisemeteo.com/balise.php?idBalise=) -  [WINDY](https://windy.com/50.426/2.500?50.025,2.499,8)
 
-- 17h-20h : 9-22km/h, OSO, Pluie: -
+- 17h-20h : 9-20km/h, OSO, Pluie: -
 
 
+### Mont Clairon
 
-## mardi 18 octobre
+ [WINDY](https://windy.com/49.919/2.729?49.515,2.730,8,m:e2magfH)
 
-### Frencq
+- 14h-17h : 16-27km/h, SO, Pluie: 0.2
 
-[BALISE](https://balisemeteo.com/balise_histo.php?idBalise=159) -  [WINDY](https://windy.com/50.559/1.669?50.159,1.670,8,m:e3qagdV)
 
-- 8h-11h : 11-18km/h, NNE, Pluie: -
+### La Creche
+
+[BALISE](https://www.meteociel.fr/temps-reel/obs_villes.php?code2=7004) -  [WINDY](https://windy.com/50.751/1.606?50.352,1.604,8,m:e3KagdP)
+
+- 17h-20h : 14-25km/h, OSO, Pluie: -
 
 
 
