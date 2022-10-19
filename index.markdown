@@ -3,16 +3,16 @@ layout: my-layout
 ---
 
 
-# Prevision windy du modèle Arome le mardi 18 octobre 18H:00
-page mise a jour mardi 18 octobre 19:03
+# Prevision windy du modèle Arome le mercredi 19 octobre 05H:00
+page mise a jour mercredi 19 octobre 08:03
 
-## jeudi 20 octobre
+## samedi 22 octobre
 
-### Licques
+### Olhain
 
- [WINDY](https://windy.com/50.786/1.936?50.388,1.934,8)
+ [WINDY](https://windy.com/50.434/2.586?50.031,2.587,8,m:e3eagft)
 
-- 8h-11h : 11-20km/h, SE, Pluie: 0.9
+- 17h-20h : 11-24km/h, SSO, Pluie: -
 
 
 
