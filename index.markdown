@@ -1,31 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: my-layout
 ---
 
-Bonjour et voici un exemple de page.
 
-# Dimanche 12 Janvier
+# Prevision Windy, modèle Arome
+page mise à jour le jeudi 20 octobre 13:21
 
-### La Comté
-- 12h-15h 12-16km/h ONO Pluie: 2mm, 50% chanche
-### Sangatte
-- 12h-15h 12-16km/h ONO Pluie: 2mm, 50% chanche
-### Equihen
-- 12h-15h 12-16km/h ONO Pluie: 2mm, 50% chanche
 
-# Lundi 12 Janvier
+Ca ne vole nul part malheureusement 😢
 
-### La Comté
-- 12h-15h 12-16km/h ONO Pluie: 2mm, 50% chanche
-### Sangatte
-- 12h-15h 12-16km/h ONO Pluie: 2mm, 50% chanche
 
-# Mardi 12 Janvier
-
-### Sangatte
-- 12h-15h 12-16km/h ONO Pluie: 2mm, 50% chanche
-### Equihen
-- 12h-15h 12-16km/h ONO Pluie: 2mm, 50% chanche
