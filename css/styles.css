@@ -163,10 +163,25 @@ header ul a strong {
 }
 
 section {
-  width:550px;
+  width:1000px;
   padding-bottom:50px;
 }
 
+div.not-flyable {
+  border: 1px solid;
+  border-color: red;
+  padding: 10px;
+}
+
+div.flyable {
+  border: 1px solid;
+  border-color: green;
+  padding: 10px;
+}
+
+div.flyable p, div.not-flyable p {
+  margin: 1px;
+}
 small {
   font-size:11px;
 }
