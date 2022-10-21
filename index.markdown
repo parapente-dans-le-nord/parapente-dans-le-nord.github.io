@@ -4,9 +4,27 @@ layout: my-layout
 
 
 # Prevision Windy, modèle Arome
-page mise à jour le jeudi 20 octobre 17:03
+page mise à jour le vendredi 21 octobre 11:06
 
 
-Ca ne vole nul part malheureusement 😢
+
+## samedi 22 octobre
+
+### Olhain
+
+ [WINDY](https://windy.com/50.434/2.586?50.031,2.587,8,m:e3eagft)
+
+- 17h-20h : 12-24km/h, SSO, Pluie: -
+
+
+
+## mardi 25 octobre
+
+### Mont Clairon
+
+ [WINDY](https://windy.com/49.919/2.729?49.515,2.730,8,m:e2magfH)
+
+- 8h-11h : 12-24km/h, SO, Pluie: -
+
 
 
