@@ -6,7 +6,7 @@ layout: my-layout
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le lundi 24 octobre 09:52
+page mise à jour le lundi 24 octobre 10:03
 
 
 
@@ -318,9 +318,9 @@ page mise à jour le lundi 24 octobre 09:52
         <td><strong>Sangatte - Cap Blanc Nez</strong>  <br><a href="https://windy.com/50.945/1.742?50.548,1.741,8,m:e33agd3">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span> </td>
         
             <td><div class="not-flyable"><p>27-38km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>27-42km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>31-46km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>27-44km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>27-42km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>31-48km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>25-46km/h SSO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -348,9 +348,9 @@ page mise à jour le lundi 24 octobre 09:52
         <td><strong>Hornu</strong>  <br><a href="https://windy.com/50.424/3.819?50.024,3.818,8,m:e3daghw">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=5040">BALISE</a> </span> </td>
         
             <td><div class="not-flyable"><p>18-35km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>22-38km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-42km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-35km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-40km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-38km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-35km/h SSO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -453,10 +453,10 @@ page mise à jour le lundi 24 octobre 09:52
 <tr>
         <td><strong>Sangatte - Cap Blanc Nez</strong>  <br><a href="https://windy.com/50.945/1.742?50.548,1.741,8,m:e33agd3">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span> </td>
         
-            <td><div class="not-flyable"><p>20-29km/h SSE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-40km/h S</p><p>🌧 0.4mm/h</p></div></td>
-            <td><div class="not-flyable"><p>24-37km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-35km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>25-37km/h SSE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-44km/h S</p><p>🌧 1.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-37km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-33km/h S</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -483,10 +483,10 @@ page mise à jour le lundi 24 octobre 09:52
 <tr>
         <td><strong>Hornu</strong>  <br><a href="https://windy.com/50.424/3.819?50.024,3.818,8,m:e3daghw">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=5040">BALISE</a> </span> </td>
         
-            <td><div class="not-flyable"><p>24-40km/h SSE</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>25-46km/h SSE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>22-38km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-40km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-31km/h SSE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-37km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-40km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-31km/h SSO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -589,10 +589,10 @@ page mise à jour le lundi 24 octobre 09:52
 <tr>
         <td><strong>Sangatte - Cap Blanc Nez</strong>  <br><a href="https://windy.com/50.945/1.742?50.548,1.741,8,m:e33agd3">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span> </td>
         
-            <td><div class="not-flyable"><p>22-37km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>27-38km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>24-38km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-37km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-27km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-25km/h SSO</p><p>🌧 2.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-29km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-25km/h SO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -619,10 +619,10 @@ page mise à jour le lundi 24 octobre 09:52
 <tr>
         <td><strong>Hornu</strong>  <br><a href="https://windy.com/50.424/3.819?50.024,3.818,8,m:e3daghw">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=5040">BALISE</a> </span> </td>
         
-            <td><div class="not-flyable"><p>18-35km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-31km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-27km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-27km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-40km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-42km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-40km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-37km/h SSO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
