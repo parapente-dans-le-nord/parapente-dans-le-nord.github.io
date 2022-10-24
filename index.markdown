@@ -6,7 +6,7 @@ layout: my-layout
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le lundi 24 octobre 09:40
+page mise à jour le lundi 24 octobre 09:52
 
 
 
@@ -36,7 +36,7 @@ page mise à jour le lundi 24 octobre 09:40
 </tbody>
 </table>
 {:/}
-## vendredi 28 octobre
+## jeudi 27 octobre
 
 {::nomarkdown}
 <table>
@@ -51,10 +51,10 @@ page mise à jour le lundi 24 octobre 09:40
 <tr>
         <td><strong>Olhain</strong>  <br><a href="https://windy.com/50.434/2.586?50.031,2.587,8,m:e3eagft">WINDY</a> - <span class="no-balise"> BALISE </span> </td>
         
-            <td><div class="not-flyable"><p>14-29km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>11-24km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>9-20km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>9-20km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>14-25km/h SSE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-33km/h S</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-33km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-31km/h S</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
