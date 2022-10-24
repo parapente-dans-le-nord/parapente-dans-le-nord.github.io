@@ -187,6 +187,11 @@ span.no-balise {
   text-decoration: line-through;
 }
 
+section table.links tr td {
+  width: 50%;
+  text-align: center;
+}
+
 small {
   font-size:11px;
 }
