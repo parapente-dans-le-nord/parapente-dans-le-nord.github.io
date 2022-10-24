@@ -6,7 +6,7 @@ layout: my-layout
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le lundi 24 octobre 17:03
+page mise à jour le lundi 24 octobre 19:03
 
 
 
@@ -25,10 +25,10 @@ page mise à jour le lundi 24 octobre 17:03
 <tr>
         <td><strong>Licques</strong>  <br><a href="https://windy.com/50.786/1.936?50.388,1.934,8">WINDY</a> - <span class="no-balise"> BALISE </span> </td>
         
-            <td><div class="not-flyable"><p>16-33km/h SO</p><p>🌧 1.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-33km/h SSO</p><p>🌧 0.6mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-31km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>14-24km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-31km/h SO</p><p>🌧 2.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-33km/h SSO</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-29km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>12-22km/h S</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
