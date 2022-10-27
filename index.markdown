@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le jeudi 27 octobre 13:03
+page mise à jour le jeudi 27 octobre 17:03
 
 
 
@@ -50,6 +50,16 @@ page mise à jour le jeudi 27 octobre 13:03
       <td>17h-20h</td>
     </tr>
 <tr>
+        <td><strong>Olhain</strong>  <br><a href="https://windy.com/50.434/2.586?50.031,2.587,8,m:e3eagft">WINDY</a> - <span class="no-balise"> BALISE </span> </td>
+        
+            <td><div class="flyable"><p>14-25km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-33km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-38km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-37km/h S</p><p>🌞 0mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
         <td><strong>Licques</strong>  <br><a href="https://windy.com/50.786/1.936?50.388,1.934,8">WINDY</a> - <span class="no-balise"> BALISE </span> </td>
         
             <td><div class="flyable"><p>12-24km/h S</p><p>🌞 0mm/h</p></div></td>
@@ -78,20 +88,10 @@ page mise à jour le jeudi 27 octobre 13:03
 <tr>
         <td><strong>Hornu</strong>  <br><a href="https://windy.com/50.424/3.819?50.024,3.818,8,m:e3daghw">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=5040">BALISE</a> </span> </td>
         
-            <td><div class="not-flyable"><p>12-24km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-31km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-33km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>11-29km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
-        <td><strong>Olhain</strong>  <br><a href="https://windy.com/50.434/2.586?50.031,2.587,8,m:e3eagft">WINDY</a> - <span class="no-balise"> BALISE </span> </td>
-        
-            <td><div class="flyable"><p>11-24km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-25km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-27km/h OSO</p><p>🌧 0.5mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-27km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-20km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-18km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>12-25km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>11-27km/h OSO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
