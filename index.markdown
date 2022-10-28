@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le vendredi 28 octobre 13:03
+page mise à jour le vendredi 28 octobre 17:03
 
 
 
@@ -77,10 +77,10 @@ page mise à jour le vendredi 28 octobre 13:03
 <tr>
         <td><strong>Equihen</strong>  <br><a href="https://windy.com/50.679/1.572?50.279,1.571,8,m:e3CagdM">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">SO, O, OSO</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
         
-            <td><div class="not-flyable"><p>7-16km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-20km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>16-29km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-35km/h SSO</p><p>🌧 1.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-16km/h SSE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-20km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>16-27km/h OSO</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-31km/h SSO</p><p>🌧 1.7mm/h</p></div></td>
             
         
     </tr>
