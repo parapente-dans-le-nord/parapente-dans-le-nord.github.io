@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le dimanche 30 octobre 22:03
+page mise à jour le lundi 31 octobre 07:03
 
 
 
@@ -24,12 +24,12 @@ page mise à jour le dimanche 30 octobre 22:03
       <td>17h-20h</td>
     </tr>
 <tr>
-        <td><strong>Olhain</strong>  <br><a href="https://windy.com/50.434/2.586?50.031,2.587,8,m:e3eagft">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">SSO, S, SSE</span><br><span class="force-vent">de 5km/h jusqu'à 25km/h</span> </td>
+        <td><strong>Licques</strong>  <br><a href="https://windy.com/50.786/1.936?50.388,1.934,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">S, SSE, SE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
             <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="flyable"><p>12-25km/h SSE</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>7-20km/h ESE</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>11-24km/h ESE</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="flyable"><p>14-24km/h SSE</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="flyable"><p>14-25km/h SE</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>16-31km/h SE</p><p>🌞 0mm/h</p></div></td> 
         
     </tr>
 
