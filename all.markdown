@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le lundi 31 octobre 17:11
+page mise à jour le lundi 31 octobre 19:03
 
 ## lundi 31 octobre
 
@@ -25,44 +25,44 @@ page mise à jour le lundi 31 octobre 17:11
         <td><strong>Equihen</strong>  <br><a href="https://windy.com/50.679/1.572?50.279,1.571,8,m:e3CagdM">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">SO, O, OSO</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-25km/h ESE</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>18-33km/h SE</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>20-35km/h SE</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-33km/h ESE</p><p>🌞 0mm/h</p></div></td> 
         
     </tr>
 <tr>
         <td><strong>La Comté</strong>  <br><a href="https://windy.com/50.426/2.500?50.025,2.499,8">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise.php?idBalise=">BALISE</a> </span><br> <span class="vent-favorable">O, OSO, ONO, NO</span><br><span class="force-vent">de 6km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-24km/h SE</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>18-31km/h SE</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>18-35km/h SSE</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-33km/h SE</p><p>🌞 0mm/h</p></div></td> 
         
     </tr>
 <tr>
         <td><strong>Sangatte - Cap Blanc Nez</strong>  <br><a href="https://windy.com/50.945/1.742?50.548,1.741,8,m:e33agd3">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">NO, NNO, N, ONO</span><br><span class="force-vent">de 13km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-22km/h SE</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>18-27km/h ESE</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>20-31km/h ESE</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-37km/h ESE</p><p>🌞 0mm/h</p></div></td> 
         
     </tr>
 <tr>
         <td><strong>Zuydcotte</strong>  <br><a href="https://windy.com/51.064/2.491?50.669,2.488,8,m:e4hagfk">WINDY</a> - <span class=""><a href="https://www.allosurf.net/meteo/live/dunkerque-station-meteo-lfak-8329.html">BALISE</a> </span><br> <span class="vent-favorable">NNO, NNE, N</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-25km/h SE</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>14-25km/h SE</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>14-25km/h ESE</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-24km/h ESE</p><p>🌞 0mm/h</p></div></td> 
         
     </tr>
 <tr>
         <td><strong>Wissant</strong>  <br><a href="https://windy.com/50.885/1.653?50.488,1.653,8,m:e3XagdU">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">ONO, NO, N, NNO</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-22km/h SSE</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>16-29km/h SE</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>16-27km/h SE</p><p>🌞 0mm/h</p></div></td> 
         
     </tr>
@@ -70,9 +70,9 @@ page mise à jour le lundi 31 octobre 17:11
         <td><strong>Hornu</strong>  <br><a href="https://windy.com/50.424/3.819?50.024,3.818,8,m:e3daghw">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=5040">BALISE</a> </span><br> <span class="vent-favorable">OSO, ONO, O</span><br><span class="force-vent">de 10km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-20km/h E</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>14-33km/h ESE</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>12-27km/h SSE</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-29km/h SE</p><p>🌞 0mm/h</p></div></td> 
         
     </tr>
 <tr>
@@ -149,54 +149,54 @@ page mise à jour le lundi 31 octobre 17:11
         <td><strong>Equihen</strong>  <br><a href="https://windy.com/50.679/1.572?50.279,1.571,8,m:e3CagdM">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">SO, O, OSO</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>50-81km/h SO</p><p>🌧 0.3mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>48-75km/h SSO</p><p>🌧 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>46-77km/h SSO</p><p>🌧 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>48-75km/h SSO</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>46-75km/h SSO</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>48-77km/h SSO</p><p>🌞 0mm/h</p></div></td> 
         
     </tr>
 <tr>
         <td><strong>La Comté</strong>  <br><a href="https://windy.com/50.426/2.500?50.025,2.499,8">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise.php?idBalise=">BALISE</a> </span><br> <span class="vent-favorable">O, OSO, ONO, NO</span><br><span class="force-vent">de 6km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>33-53km/h SSO</p><p>🌞 0mm/h</p></div></td> 
             <td><div class="not-flyable"><p>33-55km/h SSO</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>35-61km/h SSO</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>37-61km/h SSO</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>38-64km/h SSO</p><p>🌞 0mm/h</p></div></td> 
         
     </tr>
 <tr>
         <td><strong>Sangatte - Cap Blanc Nez</strong>  <br><a href="https://windy.com/50.945/1.742?50.548,1.741,8,m:e33agd3">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">NO, NNO, N, ONO</span><br><span class="force-vent">de 13km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>48-75km/h SO</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>44-70km/h SSO</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>48-77km/h SSO</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>44-74km/h SSO</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>44-74km/h SSO</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>46-75km/h SSO</p><p>🌞 0mm/h</p></div></td> 
         
     </tr>
 <tr>
         <td><strong>Zuydcotte</strong>  <br><a href="https://windy.com/51.064/2.491?50.669,2.488,8,m:e4hagfk">WINDY</a> - <span class=""><a href="https://www.allosurf.net/meteo/live/dunkerque-station-meteo-lfak-8329.html">BALISE</a> </span><br> <span class="vent-favorable">NNO, NNE, N</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>25-57km/h SSO</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>31-57km/h SSO</p><p>🌞 0mm/h</p></div></td> 
             <td><div class="not-flyable"><p>33-57km/h SSO</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>33-55km/h SSO</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>37-62km/h SSO</p><p>🌞 0mm/h</p></div></td> 
         
     </tr>
 <tr>
         <td><strong>Wissant</strong>  <br><a href="https://windy.com/50.885/1.653?50.488,1.653,8,m:e3XagdU">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">ONO, NO, N, NNO</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>50-75km/h SO</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>48-75km/h SSO</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>50-79km/h SSO</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>46-77km/h SSO</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>50-77km/h SSO</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>48-79km/h SSO</p><p>🌞 0.3mm/h</p></div></td> 
         
     </tr>
 <tr>
         <td><strong>Hornu</strong>  <br><a href="https://windy.com/50.424/3.819?50.024,3.818,8,m:e3daghw">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=5040">BALISE</a> </span><br> <span class="vent-favorable">OSO, ONO, O</span><br><span class="force-vent">de 10km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>31-61km/h SSO</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>27-55km/h SSO</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>27-51km/h SSO</p><p>🌞 0mm/h</p></div></td> 
             <td><div class="not-flyable"><p>27-53km/h SSO</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>29-55km/h SSO</p><p>🌞 0mm/h</p></div></td> 
         
     </tr>
 <tr>
