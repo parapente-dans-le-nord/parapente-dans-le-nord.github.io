@@ -51,7 +51,7 @@ Ci-dessous, la configuration actuelle spot par spot :
 ### Wissant
 {: .spot_name}
 
-- Vent favorable : ONO, NO, N, NNO
+- Vent favorable : ONO, NO, NNO
 - Vent minimum : 15 km/h
 - Vent maximum : 30 km/h
 - Interdiction de vol :  Aucune  
