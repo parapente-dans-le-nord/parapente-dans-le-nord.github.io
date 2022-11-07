@@ -159,3 +159,14 @@ Ci-dessous, la configuration actuelle spot par spot :
 - Fiche FFVL: 
 - Remarque : Site non officiel et uniquement toléré. Faire très attention a la marée haute.
 
+### Dannes
+{: .spot_name}
+
+- Vent favorable : O, OSO, SO, ONO
+- Vent minimum : 12 km/h
+- Vent maximum : 20 km/h
+- Interdiction de vol :  le dimanche pour les mois de septembre, octobre, novembre, décembre, janvier, février 
+- Balise : 
+- Fiche FFVL: 
+- Remarque : Interdit avant 12H en semaine. Interdiction de pose dans la carrière. Brevet Pilote min. Le site se trouvant dans la C.T.R. de l'aérodrome du Touquet en classe D, il est obligatoire de prévenir le service de la navigation aérienne en téléphonant au N° 03-21-06-62-86 ou 03-21-06-62-71ou 03-21-06-62-73 avant de décoller
+
