@@ -1,3 +1,8 @@
+---
+layout: my-layout
+title:  "Questions BPC"
+---
+
 ### (A100B) - Par une belle journée d'été, la température maximum sera atteinte à (heure solaire, sans tenir compte des 2 heures d'avance sur nos montres)
 
     
