@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le samedi 19 novembre 17:03
+page mise à jour le samedi 19 novembre 19:04
 
 
 
@@ -51,10 +51,10 @@ page mise à jour le samedi 19 novembre 17:03
 <tr>
         <td><strong>Olhain</strong>  <br><a href="https://windy.com/50.434/2.586?50.031,2.587,8,m:e3eagft">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">SSO, S</span><br><span class="force-vent">de 5km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="flyable"><p>11-20km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-31km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>25-44km/h SSO</p><p>🌧 1mm/h</p></div></td>
-            <td><div class="not-flyable"><p>22-50km/h ONO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>11-20km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-31km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-46km/h SSO</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-51km/h ONO</p><p>🌧 0.2mm/h</p></div></td>
             
         
     </tr>
@@ -77,10 +77,10 @@ page mise à jour le samedi 19 novembre 17:03
 <tr>
         <td><strong>Olhain</strong>  <br><a href="https://windy.com/50.434/2.586?50.031,2.587,8,m:e3eagft">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">SSO, S</span><br><span class="force-vent">de 5km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="flyable"><p>11-22km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-33km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>24-42km/h SSE</p><p>🌧 1.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>33-59km/h S</p><p>🌧 5mm/h</p></div></td>
+            <td><div class="flyable"><p>7-18km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-29km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-40km/h S</p><p>🌧 1.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>27-50km/h S</p><p>🌧 4.2mm/h</p></div></td>
             
         
     </tr>
