@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le vendredi 25 novembre 07:03
+page mise à jour le vendredi 25 novembre 10:03
 
 
 
@@ -96,12 +96,38 @@ page mise à jour le vendredi 25 novembre 07:03
       <td>16h-19h</td>
     </tr>
 <tr>
-        <td><strong>Olhain</strong>  <br><a href="https://windy.com/50.434/2.586?50.031,2.587,8,m:e3eagft">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">SSO, S</span><br><span class="force-vent">de 5km/h jusqu'à 25km/h</span> </td>
+        <td><strong>Sangatte - Cap Blanc Nez</strong>  <br><a href="https://windy.com/50.945/1.742?50.548,1.741,8,m:e33agd3">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">NO, N</span><br><span class="force-vent">de 13km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>7-18km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>7-12km/h S</p><p>🌧 0.4mm/h</p></div></td>
-            <td><div class="not-flyable"><p>3-9km/h O</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>3-9km/h O</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-12km/h NO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-12km/h N</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-20km/h N</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>14-22km/h N</p><p>🌞 0mm/h</p></div></td>
+            
+        
+    </tr>
+
+</tbody>
+</table>
+{:/}
+## mardi 29 novembre
+
+{::nomarkdown}
+<table>
+  <tbody>
+    <tr>
+      <td>Spot</td>
+      <td>7-10h</td>
+      <td>10-13h</td>
+      <td>13-16h</td>
+      <td>16h-19h</td>
+    </tr>
+<tr>
+        <td><strong>Zuydcotte</strong>  <br><a href="https://windy.com/51.064/2.491?50.669,2.488,8,m:e4hagfk">WINDY</a> - <span class=""><a href="https://www.allosurf.net/meteo/live/dunkerque-station-meteo-lfak-8329.html">BALISE</a> </span><br> <span class="vent-favorable">NNO, N</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
+        
+            <td><div class="flyable"><p>16-25km/h N</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-24km/h NNO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-22km/h NNO</p><p>🌧 0.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-25km/h NNO</p><p>🌧 0.2mm/h</p></div></td>
             
         
     </tr>
