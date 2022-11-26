@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le samedi 26 novembre 17:04
+page mise à jour le samedi 26 novembre 19:03
 
 
 
@@ -68,6 +68,16 @@ page mise à jour le samedi 26 novembre 17:04
       <td>10-13h</td>
       <td>13-16h</td>
       <td>16h-19h</td>
+    </tr>
+<tr>
+        <td><strong>La Comté</strong>  <br><a href="https://windy.com/50.426/2.500?50.025,2.499,8">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise.php?idBalise=">BALISE</a> </span><br> <span class="vent-favorable">O, ONO, NO</span><br><span class="force-vent">de 6km/h jusqu'à 25km/h</span> </td>
+        
+            <td><div class="flyable"><p>9-18km/h NO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>11-20km/h ONO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>7-22km/h NO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-14km/h NO</p><p>🌞 0mm/h</p></div></td>
+            
+        
     </tr>
 <tr>
         <td><strong>Sangatte - Cap Blanc Nez</strong>  <br><a href="https://windy.com/50.945/1.742?50.548,1.741,8,m:e33agd3">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">NO, N</span><br><span class="force-vent">de 13km/h jusqu'à 25km/h</span> </td>
