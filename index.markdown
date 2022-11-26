@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le samedi 26 novembre 10:03
+page mise à jour le samedi 26 novembre 13:03
 
 
 
@@ -78,7 +78,7 @@ page mise à jour le samedi 26 novembre 10:03
 <tr>
         <td><strong>Sangatte - Cap Blanc Nez</strong>  <br><a href="https://windy.com/50.945/1.742?50.548,1.741,8,m:e33agd3">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">NO, N</span><br><span class="force-vent">de 13km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>1-11km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>1-11km/h E</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>1-9km/h E</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>7-14km/h N</p><p>🌞 0mm/h</p></div></td>
             <td><div class="flyable"><p>18-25km/h N</p><p>🌧 0.2mm/h</p></div></td>
@@ -92,6 +92,32 @@ page mise à jour le samedi 26 novembre 10:03
             <td><div class="not-flyable"><p>3-9km/h ESE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>5-12km/h NNE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="flyable"><p>16-24km/h N</p><p>🌞 0mm/h</p></div></td>
+            
+        
+    </tr>
+
+</tbody>
+</table>
+{:/}
+## jeudi 01 décembre
+
+{::nomarkdown}
+<table>
+  <tbody>
+    <tr>
+      <td>Spot</td>
+      <td>7-10h</td>
+      <td>10-13h</td>
+      <td>13-16h</td>
+      <td>16h-19h</td>
+    </tr>
+<tr>
+        <td><strong>Frencq</strong>  <br><a href="https://windy.com/50.559/1.669?50.159,1.670,8,m:e3qagdV">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">NE, NNE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>7-22km/h E</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>11-18km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-29km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>11-29km/h NNE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
