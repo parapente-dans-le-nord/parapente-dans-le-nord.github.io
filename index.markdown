@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le mercredi 30 novembre 13:06
+page mise à jour le mercredi 30 novembre 13:48
 
 
 
@@ -30,6 +30,16 @@ page mise à jour le mercredi 30 novembre 13:06
             <td><div class="not-flyable"><p>9-18km/h SSE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="flyable"><p>11-20km/h S</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>5-20km/h SSE</p><p>🌞 0mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
+        <td><strong>Olhain</strong>  <br><a href="https://windy.com/50.434/2.586?50.031,2.587,8,m:e3eagft">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">SSO, S</span><br><span class="force-vent">de 5km/h jusqu'à 25km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>7-12km/h SE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>11-18km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-18km/h SSE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-16km/h SE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
