@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le samedi 03 décembre 19:03
+page mise à jour le samedi 03 décembre 22:03
 
 
 
@@ -26,10 +26,10 @@ page mise à jour le samedi 03 décembre 19:03
 <tr>
         <td><strong>La Comté</strong>  <br><a href="https://windy.com/50.426/2.500?50.025,2.499,8">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise.php?idBalise=">BALISE</a> </span><br> <span class="vent-favorable">O, ONO, NO</span><br><span class="force-vent">de 6km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="flyable"><p>9-16km/h NO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>11-18km/h ONO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>12-25km/h NO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>7-24km/h NO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>7-16km/h NO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>7-14km/h ONO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>11-20km/h NNO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-22km/h NO</p><p>🌧 0.2mm/h</p></div></td>
             
         
     </tr>
