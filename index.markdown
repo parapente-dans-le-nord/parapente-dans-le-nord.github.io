@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le lundi 12 décembre 17:04
+page mise à jour le lundi 12 décembre 19:03
 
 
 
@@ -26,11 +26,10 @@ page mise à jour le lundi 12 décembre 17:04
 <tr>
         <td><strong>Licques</strong>  <br><a href="https://windy.com/50.786/1.936?50.388,1.934,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">S, SSE, SE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>14-33km/h SSE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-27km/h SSE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-27km/h SSE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>11-25km/h SE</p><p>🌞 0mm/h</p></div></td>
-            
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="flyable"><p>12-22km/h SSE</p><p>🌞 0mm/h</p></div></td> 
         
     </tr>
 
@@ -52,7 +51,7 @@ page mise à jour le lundi 12 décembre 17:04
 <tr>
         <td><strong>Frencq</strong>  <br><a href="https://windy.com/50.559/1.669?50.159,1.670,8,m:e3qagdV">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">NE, NNE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>9-16km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-12km/h ENE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="flyable"><p>11-20km/h NE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="flyable"><p>11-20km/h NE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>7-20km/h NE</p><p>🌞 0mm/h</p></div></td>
