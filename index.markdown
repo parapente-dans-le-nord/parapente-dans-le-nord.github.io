@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le samedi 17 décembre 13:03
+page mise à jour le samedi 17 décembre 17:03
 
 
 
@@ -30,32 +30,6 @@ page mise à jour le samedi 17 décembre 13:03
             <td><div class="flyable"><p>9-18km/h S</p><p>🌞 0mm/h</p></div></td> 
             <td><div class="flyable"><p>11-22km/h S</p><p>🌞 0mm/h</p></div></td> 
             <td><div class="flyable"><p>11-22km/h S</p><p>🌞 0mm/h</p></div></td> 
-        
-    </tr>
-
-</tbody>
-</table>
-{:/}
-## mardi 20 décembre
-
-{::nomarkdown}
-<table>
-  <tbody>
-    <tr>
-      <td>Spot</td>
-      <td>7-10h</td>
-      <td>10-13h</td>
-      <td>13-16h</td>
-      <td>16h-19h</td>
-    </tr>
-<tr>
-        <td><strong>Cran aux oeufs</strong>  <br><a href="https://windy.com/50.847/1.584?50.451,1.582,8,m:e3TagdN">WINDY</a> - <span class=""><a href="https://www.meteociel.fr/temps-reel/obs_villes.php?code2=7004">BALISE</a> </span><br> <span class="vent-favorable">OSO</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>42-59km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>27-55km/h SO</p><p>🌧 1.5mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-35km/h SSO</p><p>🌧 0.6mm/h</p></div></td>
-            <td><div class="flyable"><p>16-25km/h OSO</p><p>🌧 1.8mm/h</p></div></td>
-            
         
     </tr>
 
