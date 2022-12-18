@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le dimanche 18 décembre 13:03
+page mise à jour le dimanche 18 décembre 17:03
 
 
 
@@ -24,12 +24,12 @@ page mise à jour le dimanche 18 décembre 13:03
       <td>16h-19h</td>
     </tr>
 <tr>
-        <td><strong>Hornu</strong>  <br><a href="https://windy.com/50.424/3.819?50.024,3.818,8,m:e3daghw">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=5040">BALISE</a> </span><br> <span class="vent-favorable">OSO, ONO, O</span><br><span class="force-vent">de 10km/h jusqu'à 30km/h</span> </td>
+        <td><strong>Equihen</strong>  <br><a href="https://windy.com/50.679/1.572?50.279,1.571,8,m:e3CagdM">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">SO, O, OSO</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
         
-            <td><div class="flyable"><p>12-22km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-29km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>22-42km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>22-44km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>18-29km/h SO</p><p>🌧 0.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-38km/h SO</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>31-50km/h OSO</p><p>🌧 2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>31-55km/h OSO</p><p>🌧 1.8mm/h</p></div></td>
             
         
     </tr>
