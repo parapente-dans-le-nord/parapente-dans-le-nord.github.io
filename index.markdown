@@ -7,11 +7,11 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le jeudi 22 décembre 19:03
+page mise à jour le jeudi 22 décembre 22:03
 
 
 
-## dimanche 25 décembre
+## mardi 27 décembre
 
 {::nomarkdown}
 <table>
@@ -26,10 +26,10 @@ page mise à jour le jeudi 22 décembre 19:03
 <tr>
         <td><strong>Olhain</strong>  <br><a href="https://windy.com/50.434/2.586?50.031,2.587,8,m:e3eagft">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">SSO, S</span><br><span class="force-vent">de 5km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="flyable"><p>12-25km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>11-24km/h S</p><p>🌧 1.1mm/h</p></div></td>
-            <td><div class="flyable"><p>11-22km/h SSO</p><p>🌧 2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-20km/h SO</p><p>🌧 1.5mm/h</p></div></td>
+            <td><div class="flyable"><p>14-24km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-27km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-31km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-33km/h SSO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
