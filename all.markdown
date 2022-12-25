@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le dimanche 25 décembre 17:03
+page mise à jour le dimanche 25 décembre 19:03
 
 ## dimanche 25 décembre
 
@@ -51,10 +51,11 @@ page mise à jour le dimanche 25 décembre 17:03
 <tr>
         <td><strong>Equihen</strong><br><a href="https://windy.com/50.679/1.572?50.279,1.571,8,m:e3CagdM">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">SO, O, OSO</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
         
-            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-29km/h S</p><p>🌧 2.4mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>16-33km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-25km/h S</p><p>🌧 1.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-24km/h S</p><p>🌧 1.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-25km/h S</p><p>🌧 0.4mm/h</p></div></td>
+            
         
     </tr>
 <tr>
@@ -209,10 +210,10 @@ page mise à jour le dimanche 25 décembre 17:03
 <tr>
         <td><strong>Equihen</strong><br><a href="https://windy.com/50.679/1.572?50.279,1.571,8,m:e3CagdM">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">SO, O, OSO</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
         
-            <td><div class="not-flyable"><p>44-68km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>27-48km/h NO</p><p>🌧 1.7mm/h</p></div></td>
-            <td><div class="not-flyable"><p>24-38km/h ONO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>31-46km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>42-74km/h SO</p><p>🌧 1.6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>29-74km/h ONO</p><p>🌧 0.7mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-50km/h ONO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-42km/h O</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -269,10 +270,10 @@ page mise à jour le dimanche 25 décembre 17:03
 <tr>
         <td><strong>Licques</strong><br><a href="https://windy.com/50.786/1.936?50.388,1.934,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">S, SSE, SE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>37-66km/h SO</p><p>🌧 0.4mm/h</p></div></td>
-            <td><div class="not-flyable"><p>25-68km/h ONO</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-48km/h ONO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-42km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>40-62km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-44km/h NO</p><p>🌧 2.8mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-31km/h ONO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-38km/h O</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -295,10 +296,10 @@ page mise à jour le dimanche 25 décembre 17:03
 <tr>
         <td><strong>Equihen</strong><br><a href="https://windy.com/50.679/1.572?50.279,1.571,8,m:e3CagdM">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">SO, O, OSO</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
         
-            <td><div class="not-flyable"><p>16-33km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>24-38km/h SO</p><p>🌧 0.8mm/h</p></div></td>
-            <td><div class="not-flyable"><p>27-48km/h SSO</p><p>🌧 1.3mm/h</p></div></td>
-            <td><div class="not-flyable"><p>31-55km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-35km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-37km/h SO</p><p>🌧 0.8mm/h</p></div></td>
+            <td><div class="not-flyable"><p>27-46km/h SSO</p><p>🌧 0.6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>31-53km/h SO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -335,10 +336,10 @@ page mise à jour le dimanche 25 décembre 17:03
 <tr>
         <td><strong>Licques</strong><br><a href="https://windy.com/50.786/1.936?50.388,1.934,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">S, SSE, SE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>11-29km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-31km/h SSO</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>22-40km/h SSO</p><p>🌧 0.7mm/h</p></div></td>
-            <td><div class="not-flyable"><p>25-48km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-18km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-33km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-42km/h SSO</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-46km/h SO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -459,6 +460,16 @@ page mise à jour le dimanche 25 décembre 17:03
         
     </tr>
 <tr>
+        <td><strong>Equihen</strong><br><a href="https://windy.com/50.679/1.572?50.279,1.571,8,m:e3CagdM">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">SO, O, OSO</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>37-64km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>33-61km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>37-64km/h SSO</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>40-66km/h SSO</p><p>🌧 2.4mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
         <td><strong>Mont Clairon</strong><br><a href="https://windy.com/49.919/2.729?49.515,2.730,8,m:e2magfH">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">SO</span><br><span class="force-vent">de 12km/h jusqu'à 25km/h</span> </td>
         
             <td><div class="not-flyable"><p>24-44km/h SO</p><p>🌧 0.5mm/h</p></div></td>
@@ -469,22 +480,12 @@ page mise à jour le dimanche 25 décembre 17:03
         
     </tr>
 <tr>
-        <td><strong>Equihen</strong><br><a href="https://windy.com/50.679/1.572?50.279,1.571,8,m:e3CagdM">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">SO, O, OSO</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>37-72km/h SO</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>35-62km/h SSO</p><p>🌧 0.4mm/h</p></div></td>
-            <td><div class="not-flyable"><p>38-62km/h SSO</p><p>🌧 0.3mm/h</p></div></td>
-            <td><div class="not-flyable"><p>40-68km/h SSO</p><p>🌧 4mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
         <td><strong>Licques</strong><br><a href="https://windy.com/50.786/1.936?50.388,1.934,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">S, SSE, SE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>29-57km/h SO</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>27-57km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>31-61km/h SSO</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>35-66km/h SSO</p><p>🌧 2.1mm/h</p></div></td>
+            <td><div class="not-flyable"><p>29-62km/h SO</p><p>🌧 0.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>29-57km/h SO</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>31-57km/h SSO</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>35-66km/h SSO</p><p>🌧 3.9mm/h</p></div></td>
             
         
     </tr>
