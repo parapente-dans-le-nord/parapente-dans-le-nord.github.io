@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le lundi 02 janvier 07:03
+page mise à jour le lundi 02 janvier 10:04
 
 
 
@@ -36,10 +36,10 @@ page mise à jour le lundi 02 janvier 07:03
 <tr>
         <td><strong>Hornu</strong>  <br><a href="https://windy.com/50.424/3.819?50.024,3.818,8,m:e3daghw">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=5040">BALISE</a> </span><br> <span class="vent-favorable">OSO, ONO, O</span><br><span class="force-vent">de 10km/h jusqu'à 30km/h</span> </td>
         
-            <td><div class="not-flyable"><p>22-44km/h OSO</p><p>🌧 2.6mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-38km/h OSO</p><p>🌧 3.2mm/h</p></div></td>
-            <td><div class="flyable"><p>14-29km/h OSO</p><p>🌧 1.5mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-38km/h OSO</p><p>🌧 0.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-44km/h OSO</p><p>🌧 3.3mm/h</p></div></td>
+            <td><div class="flyable"><p>16-29km/h OSO</p><p>🌧 2.9mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-33km/h OSO</p><p>🌧 1.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-42km/h OSO</p><p>🌧 0.2mm/h</p></div></td>
             
         
     </tr>
