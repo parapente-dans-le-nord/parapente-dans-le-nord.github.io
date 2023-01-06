@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le vendredi 06 janvier 13:03
+page mise à jour le vendredi 06 janvier 17:03
 
 
 
