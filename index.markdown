@@ -7,10 +7,36 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le vendredi 13 janvier 13:03
+page mise à jour le vendredi 13 janvier 17:03
 
 
 
+## lundi 16 janvier
+
+{::nomarkdown}
+<table>
+  <tbody>
+    <tr>
+      <td>Spot</td>
+      <td>7-10h</td>
+      <td>10-13h</td>
+      <td>13-16h</td>
+      <td>16h-19h</td>
+    </tr>
+<tr>
+        <td><strong>Hornu</strong>  <br><a href="https://windy.com/50.424/3.819?50.024,3.818,8,m:e3daghw">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=5040">BALISE</a> </span><br> <span class="vent-favorable">OSO, ONO, O</span><br><span class="force-vent">de 10km/h jusqu'à 30km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>14-37km/h SE</p><p>🌧 9mm/h</p></div></td>
+            <td><div class="flyable"><p>16-27km/h O</p><p>🌧 3.1mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-38km/h O</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-40km/h O</p><p>🌞 0mm/h</p></div></td>
+            
+        
+    </tr>
+
+</tbody>
+</table>
+{:/}
 ## mardi 17 janvier
 
 {::nomarkdown}
