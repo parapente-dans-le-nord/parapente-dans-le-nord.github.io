@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le dimanche 15 janvier 10:04
+page mise à jour le dimanche 15 janvier 13:03
 
 ## dimanche 15 janvier
 
@@ -188,6 +188,16 @@ page mise à jour le dimanche 15 janvier 10:04
         
     </tr>
 <tr>
+        <td><strong>La Comté</strong><br><a href="https://windy.com/50.426/2.500?50.025,2.499,8">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise.php?idBalise=">BALISE</a> </span><br> <span class="vent-favorable">O, ONO, NO</span><br><span class="force-vent">de 6km/h jusqu'à 25km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>14-25km/h NE</p><p>🌧 8cmmm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-29km/h NNO</p><p>🌧 2.8mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-42km/h NO</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-40km/h NO</p><p>🌞 0mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
         <td><strong>Equihen</strong><br><a href="https://windy.com/50.679/1.572?50.279,1.571,8,m:e3CagdM">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">SO, O, OSO</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>20-44km/h E</p><p>🌧 8mm/h</p></div></td>
@@ -237,16 +247,6 @@ page mise à jour le dimanche 15 janvier 10:04
             
         
     </tr>
-<tr>
-        <td><strong>La Comté</strong><br><a href="https://windy.com/50.426/2.500?50.025,2.499,8">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise.php?idBalise=">BALISE</a> </span><br> <span class="vent-favorable">O, ONO, NO</span><br><span class="force-vent">de 6km/h jusqu'à 25km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>33-55km/h SSE</p><p>🌧 10mm/h</p></div></td>
-            <td><div class="not-flyable"><p>24-40km/h SSO</p><p>🌧 1.7mm/h</p></div></td>
-            <td><div class="not-flyable"><p>25-48km/h NNO</p><p>🌧 6mm/h</p></div></td>
-            <td><div class="not-flyable"><p>33-61km/h NO</p><p>🌧 4.1mm/h</p></div></td>
-            
-        
-    </tr>
 
 </tbody>
 </table>
@@ -288,8 +288,8 @@ page mise à jour le dimanche 15 janvier 10:04
         
             <td><div class="not-flyable"><p>7-12km/h SE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>11-16km/h SE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-25km/h E</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-27km/h E</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-25km/h ESE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-25km/h E</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -400,16 +400,6 @@ page mise à jour le dimanche 15 janvier 10:04
       <td>16h-19h</td>
     </tr>
 <tr>
-        <td><strong>La Comté</strong><br><a href="https://windy.com/50.426/2.500?50.025,2.499,8">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise.php?idBalise=">BALISE</a> </span><br> <span class="vent-favorable">O, ONO, NO</span><br><span class="force-vent">de 6km/h jusqu'à 25km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>9-18km/h N</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>9-18km/h NO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-20km/h NNO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-24km/h NNO</p><p>🌞 0mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
         <td><strong>Escalles</strong><br><a href="https://windy.com/50.918/1.714?arome,50.522,1.714,8">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">NO, N</span><br><span class="force-vent">de 15km/h jusqu'à 25km/h</span> </td>
         
             <td><div class="not-flyable"><p>18-29km/h NNO</p><p>🌧 0.2mm/h</p></div></td>
@@ -456,6 +446,16 @@ page mise à jour le dimanche 15 janvier 10:04
             <td><div class="not-flyable"><p>11-25km/h NO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>12-25km/h N</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>11-27km/h NNO</p><p>🌞 0mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
+        <td><strong>La Comté</strong><br><a href="https://windy.com/50.426/2.500?50.025,2.499,8">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise.php?idBalise=">BALISE</a> </span><br> <span class="vent-favorable">O, ONO, NO</span><br><span class="force-vent">de 6km/h jusqu'à 25km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>11-24km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>11-20km/h N</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-20km/h NNO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-24km/h NNO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
