@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le vendredi 20 janvier 13:03
+page mise à jour le vendredi 20 janvier 17:03
 
 
 
@@ -105,7 +105,7 @@ page mise à jour le vendredi 20 janvier 13:03
         
             <td><div class="not-flyable"><p>9-16km/h SO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>14-22km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>16-27km/h OSO</p><p>🌧 0.5mm/h</p></div></td>
+            <td><div class="flyable"><p>18-27km/h OSO</p><p>🌧 0.5mm/h</p></div></td>
             <td><div class="not-flyable"><p>20-33km/h OSO</p><p>🌧 1.3mm/h</p></div></td>
             
         
