@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le samedi 21 janvier 17:03
+page mise à jour le samedi 21 janvier 19:03
 
 ## samedi 21 janvier
 
@@ -31,30 +31,12 @@ page mise à jour le samedi 21 janvier 17:03
         
     </tr>
 <tr>
-        <td><strong>La Comté</strong><br><a href="https://windy.com/50.426/2.500?50.025,2.499,8">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise.php?idBalise=">BALISE</a> </span><br> <span class="vent-favorable">O, ONO, NO</span><br><span class="force-vent">de 6km/h jusqu'à 25km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-24km/h NNE</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>16-27km/h NE</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>16-27km/h NE</p><p>🌞 0mm/h</p></div></td> 
-        
-    </tr>
-<tr>
         <td><strong>Sangatte - Cap Blanc Nez</strong><br><a href="https://windy.com/50.945/1.742?50.548,1.741,8,m:e33agd3">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">NO, N</span><br><span class="force-vent">de 13km/h jusqu'à 25km/h</span> </td>
         
             <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-16km/h ESE</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>14-24km/h E</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>20-29km/h E</p><p>🌞 0mm/h</p></div></td> 
-        
-    </tr>
-<tr>
-        <td><strong>Equihen</strong><br><a href="https://windy.com/50.679/1.572?50.279,1.571,8,m:e3CagdM">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">SO, O, OSO</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
-        
             <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-25km/h ENE</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>16-31km/h ENE</p><p>🌞 0mm/h</p></div></td> 
-            <td><div class="not-flyable"><p>14-25km/h NE</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-22km/h ENE</p><p>🌞 0mm/h</p></div></td> 
         
     </tr>
 <tr>
@@ -82,6 +64,24 @@ page mise à jour le samedi 21 janvier 17:03
             <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>11-22km/h ENE</p><p>🌞 0mm/h</p></div></td> 
+        
+    </tr>
+<tr>
+        <td><strong>Equihen</strong><br><a href="https://windy.com/50.679/1.572?50.279,1.571,8,m:e3CagdM">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">SO, O, OSO</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-24km/h NE</p><p>🌞 0mm/h</p></div></td> 
+        
+    </tr>
+<tr>
+        <td><strong>La Comté</strong><br><a href="https://windy.com/50.426/2.500?50.025,2.499,8">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise.php?idBalise=">BALISE</a> </span><br> <span class="vent-favorable">O, ONO, NO</span><br><span class="force-vent">de 6km/h jusqu'à 25km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-27km/h NNE</p><p>🌞 0mm/h</p></div></td> 
         
     </tr>
 <tr>
@@ -197,10 +197,10 @@ page mise à jour le samedi 21 janvier 17:03
 <tr>
         <td><strong>Equihen</strong><br><a href="https://windy.com/50.679/1.572?50.279,1.571,8,m:e3CagdM">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">SO, O, OSO</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
         
-            <td><div class="not-flyable"><p>12-22km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-20km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-25km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-25km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-12km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-11km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-25km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-33km/h NNE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -211,6 +211,16 @@ page mise à jour le samedi 21 janvier 17:03
             <td><div class="not-flyable"><p>24-37km/h NNE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>22-35km/h NNE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>20-37km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
+        <td><strong>Sangatte - Cap Blanc Nez</strong><br><a href="https://windy.com/50.945/1.742?50.548,1.741,8,m:e33agd3">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">NO, N</span><br><span class="force-vent">de 13km/h jusqu'à 25km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>5-11km/h E</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-31km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>25-35km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-33km/h NNE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -231,16 +241,6 @@ page mise à jour le samedi 21 janvier 17:03
             <td><div class="not-flyable"><p>22-31km/h NNE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>24-37km/h NE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>24-33km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
-        <td><strong>Sangatte - Cap Blanc Nez</strong><br><a href="https://windy.com/50.945/1.742?50.548,1.741,8,m:e33agd3">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">NO, N</span><br><span class="force-vent">de 13km/h jusqu'à 25km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>3-11km/h SE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-37km/h ESE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>25-37km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>25-35km/h NE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -283,7 +283,7 @@ page mise à jour le samedi 21 janvier 17:03
 <tr>
         <td><strong>La Comté</strong><br><a href="https://windy.com/50.426/2.500?50.025,2.499,8">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise.php?idBalise=">BALISE</a> </span><br> <span class="vent-favorable">O, ONO, NO</span><br><span class="force-vent">de 6km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>11-20km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>11-18km/h ENE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>14-25km/h NE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>18-33km/h NE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>16-33km/h NE</p><p>🌞 0mm/h</p></div></td>
@@ -363,7 +363,7 @@ page mise à jour le samedi 21 janvier 17:03
 <tr>
         <td><strong>Equihen</strong><br><a href="https://windy.com/50.679/1.572?50.279,1.571,8,m:e3CagdM">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">SO, O, OSO</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
         
-            <td><div class="not-flyable"><p>9-20km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>11-16km/h E</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>12-20km/h NE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>18-33km/h ENE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>16-33km/h NE</p><p>🌞 0mm/h</p></div></td>
@@ -373,10 +373,10 @@ page mise à jour le samedi 21 janvier 17:03
 <tr>
         <td><strong>Sangatte - Cap Blanc Nez</strong><br><a href="https://windy.com/50.945/1.742?50.548,1.741,8,m:e33agd3">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">NO, N</span><br><span class="force-vent">de 13km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>12-22km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-20km/h ESE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>12-22km/h E</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-27km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-31km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-29km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-29km/h NE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -449,10 +449,10 @@ page mise à jour le samedi 21 janvier 17:03
 <tr>
         <td><strong>Sangatte - Cap Blanc Nez</strong><br><a href="https://windy.com/50.945/1.742?50.548,1.741,8,m:e33agd3">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">NO, N</span><br><span class="force-vent">de 13km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>16-27km/h ENE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>16-25km/h E</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-27km/h ENE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>18-29km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-29km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-27km/h NE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
