@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le vendredi 27 janvier 13:03
+page mise à jour le vendredi 27 janvier 17:03
 
 
 
@@ -24,12 +24,12 @@ page mise à jour le vendredi 27 janvier 13:03
       <td>16h-19h</td>
     </tr>
 <tr>
-        <td><strong>Cran aux oeufs</strong>  <br><a href="https://windy.com/50.847/1.584?50.451,1.582,8,m:e3TagdN">WINDY</a> - <span class=""><a href="https://www.meteociel.fr/temps-reel/obs_villes.php?code2=7004">BALISE</a> </span><br> <span class="vent-favorable">OSO</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
+        <td><strong>Equihen</strong>  <br><a href="https://windy.com/50.679/1.572?50.279,1.571,8,m:e3CagdM">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">SO, O, OSO</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
         
-            <td><div class="flyable"><p>18-24km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-27km/h OSO</p><p>🌧 0.5mm/h</p></div></td>
-            <td><div class="not-flyable"><p>24-31km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>33-44km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-16km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>16-25km/h OSO</p><p>🌧 0.5mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-33km/h O</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-40km/h OSO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
