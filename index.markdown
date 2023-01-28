@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le samedi 28 janvier 07:03
+page mise à jour le samedi 28 janvier 10:03
 
 
 
@@ -62,10 +62,10 @@ page mise à jour le samedi 28 janvier 07:03
 <tr>
         <td><strong>Mont Clairon</strong>  <br><a href="https://windy.com/49.919/2.729?49.515,2.730,8,m:e2magfH">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">SO</span><br><span class="force-vent">de 12km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="flyable"><p>14-25km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>12-22km/h SO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>16-29km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-40km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>24-48km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-42km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-40km/h O</p><p>🌧 0.2mm/h</p></div></td>
             
         
     </tr>
