@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le lundi 30 janvier 19:03
+page mise à jour le lundi 30 janvier 22:03
 
 
 
@@ -78,10 +78,10 @@ page mise à jour le lundi 30 janvier 19:03
 <tr>
         <td><strong>Hornu</strong>  <br><a href="https://windy.com/50.424/3.819?50.024,3.818,8,m:e3daghw">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=5040">BALISE</a> </span><br> <span class="vent-favorable">OSO, ONO, O</span><br><span class="force-vent">de 10km/h jusqu'à 30km/h</span> </td>
         
-            <td><div class="flyable"><p>12-24km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>14-25km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-37km/h ONO</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-33km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>12-24km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>14-27km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-33km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-33km/h ONO</p><p>🌧 0.3mm/h</p></div></td>
             
         
     </tr>
@@ -104,10 +104,10 @@ page mise à jour le lundi 30 janvier 19:03
 <tr>
         <td><strong>Hornu</strong>  <br><a href="https://windy.com/50.424/3.819?50.024,3.818,8,m:e3daghw">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=5040">BALISE</a> </span><br> <span class="vent-favorable">OSO, ONO, O</span><br><span class="force-vent">de 10km/h jusqu'à 30km/h</span> </td>
         
-            <td><div class="flyable"><p>12-22km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-35km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>22-40km/h O</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-42km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>11-20km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>14-25km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-33km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-37km/h O</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
