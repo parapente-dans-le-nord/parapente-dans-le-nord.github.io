@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le mardi 14 février 19:03
+page mise à jour le mardi 14 février 22:03
 
 
 
@@ -78,9 +78,9 @@ page mise à jour le mardi 14 février 19:03
         <td><strong>Equihen</strong>  <br><a href="https://windy.com/50.679/1.572?50.279,1.571,8,m:e3CagdM">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">SO, O, OSO</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="flyable"><p>18-29km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>24-38km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>25-50km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>29-50km/h SO</p><p>🌧 0.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-29km/h SSO</p><p>🌧 0.5mm/h</p></div></td>
+            <td><div class="not-flyable"><p>27-48km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>29-50km/h SO</p><p>🌧 0.5mm/h</p></div></td>
             
         
     </tr>
@@ -88,9 +88,9 @@ page mise à jour le mardi 14 février 19:03
         <td><strong>Olhain</strong>  <br><a href="https://windy.com/50.434/2.586?50.031,2.587,8,m:e3eagft">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">SSO, S</span><br><span class="force-vent">de 5km/h jusqu'à 25km/h</span> </td>
         
             <td><div class="not-flyable"><p>12-24km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>14-24km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-42km/h SO</p><p>🌧 0.6mm/h</p></div></td>
-            <td><div class="not-flyable"><p>22-38km/h SO</p><p>🌧 1.1mm/h</p></div></td>
+            <td><div class="flyable"><p>12-25km/h SSO</p><p>🌧 0.6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-37km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-38km/h SO</p><p>🌧 0.6mm/h</p></div></td>
             
         
     </tr>
