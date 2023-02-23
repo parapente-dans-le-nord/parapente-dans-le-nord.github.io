@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le jeudi 23 février 07:03
+page mise à jour le jeudi 23 février 10:03
 
 
 
@@ -72,10 +72,10 @@ page mise à jour le jeudi 23 février 07:03
 <tr>
         <td><strong>Frencq</strong>  <br><a href="https://windy.com/50.559/1.669?50.159,1.670,8,m:e3qagdV">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">NE, NNE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="flyable"><p>14-25km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>14-25km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>27-51km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>25-50km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>11-25km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-27km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>25-48km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-50km/h NE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
