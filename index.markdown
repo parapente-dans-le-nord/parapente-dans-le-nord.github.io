@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le vendredi 03 mars 17:03
+page mise à jour le vendredi 03 mars 19:03
 
 
 
@@ -52,10 +52,10 @@ page mise à jour le vendredi 03 mars 17:03
 <tr>
         <td><strong>Zuydcotte</strong>  <br><a href="https://windy.com/51.064/2.491?50.669,2.488,8,m:e4hagfk">WINDY</a> - <span class=""><a href="https://www.allosurf.net/meteo/live/dunkerque-station-meteo-lfak-8329.html">BALISE</a> </span><br> <span class="vent-favorable">NNO, N</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
         
-            <td><div class="flyable"><p>16-24km/h NNO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-27km/h NNO</p><p>🌧 0.4mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-25km/h NNO</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-22km/h NNO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>16-27km/h NNO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>16-25km/h NNO</p><p>🌧 0.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-27km/h NNO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>11-24km/h NO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
