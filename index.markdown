@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le dimanche 05 mars 19:03
+page mise à jour le dimanche 05 mars 22:03
 
 
 
@@ -78,19 +78,35 @@ page mise à jour le dimanche 05 mars 19:03
         <td><strong>Mont Clairon</strong>  <br><a href="https://windy.com/49.919/2.729?49.515,2.730,8,m:e2magfH">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">SO</span><br><span class="force-vent">de 12km/h jusqu'à 25km/h</span> </td>
         
             <td><div class="flyable"><p>16-25km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>24-42km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>22-48km/h SO</p><p>🌧 0.8mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-40km/h O</p><p>🌧 1.6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-44km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>27-50km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-51km/h ONO</p><p>🌧 1.3mm/h</p></div></td>
             
         
     </tr>
+
+</tbody>
+</table>
+{:/}
+## vendredi 10 mars
+
+{::nomarkdown}
+<table>
+  <tbody>
+    <tr>
+      <td>Spot</td>
+      <td>7-10h</td>
+      <td>10-13h</td>
+      <td>13-16h</td>
+      <td>16h-19h</td>
+    </tr>
 <tr>
-        <td><strong>Zuydcotte</strong>  <br><a href="https://windy.com/51.064/2.491?50.669,2.488,8,m:e4hagfk">WINDY</a> - <span class=""><a href="https://www.allosurf.net/meteo/live/dunkerque-station-meteo-lfak-8329.html">BALISE</a> </span><br> <span class="vent-favorable">NNO, N</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
+        <td><strong>Mont Clairon</strong>  <br><a href="https://windy.com/49.919/2.729?49.515,2.730,8,m:e2magfH">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">SO</span><br><span class="force-vent">de 12km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>24-44km/h ONO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-37km/h NNE</p><p>🌧 2.7mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-37km/h NNE</p><p>🌧 1.2mm/h</p></div></td>
-            <td><div class="flyable"><p>16-27km/h N</p><p>🌧 1.9mm/h</p></div></td>
+            <td><div class="flyable"><p>14-25km/h SO</p><p>🌧 1mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-38km/h SO</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-42km/h SO</p><p>🌧 1.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-44km/h SO</p><p>🌧 2.6mm/h</p></div></td>
             
         
     </tr>
