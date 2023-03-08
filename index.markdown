@@ -7,11 +7,11 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le mardi 07 mars 22:03
+page mise à jour le mercredi 08 mars 07:03
 
 
 
-## vendredi 10 mars
+## mercredi 08 mars
 
 {::nomarkdown}
 <table>
@@ -24,12 +24,12 @@ page mise à jour le mardi 07 mars 22:03
       <td>16h-19h</td>
     </tr>
 <tr>
-        <td><strong>Hornu</strong>  <br><a href="https://windy.com/50.424/3.819?50.024,3.818,8,m:e3daghw">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=5040">BALISE</a> </span><br> <span class="vent-favorable">OSO, ONO, O</span><br><span class="force-vent">de 10km/h jusqu'à 30km/h</span> </td>
+        <td><strong>Olhain</strong>  <br><a href="https://windy.com/50.434/2.586?50.031,2.587,8,m:e3eagft">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">SSO, S</span><br><span class="force-vent">de 5km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>14-40km/h SO</p><p>🌧 1.3mm/h</p></div></td>
-            <td><div class="flyable"><p>14-29km/h OSO</p><p>🌧 2.3mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-37km/h OSO</p><p>🌧 1.4mm/h</p></div></td>
-            <td><div class="not-flyable"><p>24-44km/h O</p><p>🌧 1.5mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-38km/h ESE</p><p>🌧 6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-25km/h NE</p><p>🌧 6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-12km/h NNE</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="flyable"><p>5-11km/h S</p><p>🌧 2.1mm/h</p></div></td>
             
         
     </tr>
