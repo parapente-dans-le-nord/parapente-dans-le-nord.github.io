@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le samedi 11 mars 17:03
+page mise à jour le samedi 11 mars 19:03
 
 ## samedi 11 mars
 
@@ -24,10 +24,11 @@ page mise à jour le samedi 11 mars 17:03
 <tr>
         <td><strong>Licques</strong><br><a href="https://windy.com/50.786/1.936?50.388,1.934,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">S, SSE, SE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="flyable"><p>12-24km/h SSE</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>5-7km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-14km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-24km/h SSE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>12-24km/h SSE</p><p>🌞 0mm/h</p></div></td>
+            
         
     </tr>
 <tr>
@@ -219,10 +220,10 @@ page mise à jour le samedi 11 mars 17:03
 <tr>
         <td><strong>Licques</strong><br><a href="https://windy.com/50.786/1.936?50.388,1.934,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">S, SSE, SE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>31-51km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>31-53km/h O</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>35-59km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>27-51km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>25-48km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>27-51km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>33-62km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>33-66km/h OSO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -353,22 +354,22 @@ page mise à jour le samedi 11 mars 17:03
         
     </tr>
 <tr>
-        <td><strong>Licques</strong><br><a href="https://windy.com/50.786/1.936?50.388,1.934,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">S, SSE, SE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>50-87km/h SO</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>40-77km/h SO</p><p>🌧 0.5mm/h</p></div></td>
-            <td><div class="not-flyable"><p>44-83km/h SO</p><p>🌧 0.5mm/h</p></div></td>
-            <td><div class="not-flyable"><p>35-83km/h SO</p><p>🌞 0mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
         <td><strong>Frencq</strong><br><a href="https://windy.com/50.559/1.669?50.159,1.670,8,m:e3qagdV">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">NE, NNE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
             <td><div class="not-flyable"><p>44-75km/h SO</p><p>🌧 0.3mm/h</p></div></td>
             <td><div class="not-flyable"><p>37-70km/h SO</p><p>🌧 0.7mm/h</p></div></td>
             <td><div class="not-flyable"><p>38-74km/h SO</p><p>🌧 0.5mm/h</p></div></td>
             <td><div class="not-flyable"><p>27-72km/h SO</p><p>🌞 0mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
+        <td><strong>Licques</strong><br><a href="https://windy.com/50.786/1.936?50.388,1.934,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">S, SSE, SE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>40-74km/h SO</p><p>🌧 2.7mm/h</p></div></td>
+            <td><div class="not-flyable"><p>40-79km/h SO</p><p>🌧 0.8mm/h</p></div></td>
+            <td><div class="not-flyable"><p>46-87km/h SO</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>35-87km/h SO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -449,6 +450,16 @@ page mise à jour le samedi 11 mars 17:03
         
     </tr>
 <tr>
+        <td><strong>Licques</strong><br><a href="https://windy.com/50.786/1.936?50.388,1.934,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">S, SSE, SE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>33-70km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>37-68km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>37-74km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>33-74km/h ONO</p><p>🌧 0.3mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
         <td><strong>Equihen</strong><br><a href="https://windy.com/50.679/1.572?50.279,1.571,8,m:e3CagdM">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">SO, O, OSO</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>46-87km/h O</p><p>🌞 0mm/h</p></div></td>
@@ -475,16 +486,6 @@ page mise à jour le samedi 11 mars 17:03
             <td><div class="not-flyable"><p>40-74km/h O</p><p>🌧 0.2mm/h</p></div></td>
             <td><div class="not-flyable"><p>27-74km/h ONO</p><p>🌧 2mm/h</p></div></td>
             <td><div class="not-flyable"><p>27-59km/h ONO</p><p>🌧 0.9mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
-        <td><strong>Licques</strong><br><a href="https://windy.com/50.786/1.936?50.388,1.934,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">S, SSE, SE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>33-79km/h O</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>38-87km/h ONO</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>27-74km/h ONO</p><p>🌧 1.3mm/h</p></div></td>
-            <td><div class="not-flyable"><p>22-61km/h ONO</p><p>🌧 0.6mm/h</p></div></td>
             
         
     </tr>

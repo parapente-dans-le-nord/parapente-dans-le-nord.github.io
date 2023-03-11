@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le samedi 11 mars 17:03
+page mise à jour le samedi 11 mars 19:03
 
 
 
@@ -26,10 +26,11 @@ page mise à jour le samedi 11 mars 17:03
 <tr>
         <td><strong>Licques</strong>  <br><a href="https://windy.com/50.786/1.936?50.388,1.934,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">S, SSE, SE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="flyable"><p>12-24km/h SSE</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>5-7km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-14km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-24km/h SSE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>12-24km/h SSE</p><p>🌞 0mm/h</p></div></td>
+            
         
     </tr>
 
