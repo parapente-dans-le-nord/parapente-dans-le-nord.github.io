@@ -1,0 +1,28 @@
+{
+    "spots" : [
+        {
+            "name": "Batie Neuve",
+            "url": "44.584/6.236?44.559,6.262,10,m:eTtagly",
+            "goodDirection" : ["O","OSO","SO","SSO","S"],
+            "minSpeed" : 0,
+            "maxSpeed" : 15,
+            "balise":"https://www.openwindmap.org/PP554"
+        },
+        {
+            "name": "Colombis",
+            "url": "44.494/6.216?44.559,6.262,10",
+            "goodDirection" : ["O","OSO","SO"],
+            "minSpeed" : 0,
+            "maxSpeed" : 15,
+            "balise":""
+        },
+        {
+            "name": "Chorges",
+            "url": "44.578/6.280?44.559,6.262,10",
+            "goodDirection" : ["SE","SSE","S","SSO","SO","OSO","O"],
+            "minSpeed" : 0,
+            "maxSpeed" : 15,
+            "balise":"https://www.openwindmap.org/PP554"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "spots" : [ 
+        {
+            "name": "Le Chalvet",
+            "url": "43.979/6.480?43.866,6.480,10,m:eSsaglX",
+            "goodDirection" : ["SO","SSO","S","SSE","SE"],
+            "minSpeed" : 0,
+            "maxSpeed" : 15,
+            "balise":""
+        },
+        {
+            "name": "Mouchon",
+            "url": "43.992/6.424?43.878,6.425,10,m:eSuaglR",
+            "goodDirection" : ["O","OSO","SO"],
+            "minSpeed" : 0,
+            "maxSpeed" : 15,
+            "balise":""
+        },
+        {
+            "name": "Clumanc",
+            "url": "44.027/6.402?43.914,6.403,10,m:eSxaglP",
+            "goodDirection" : ["O","OSO","ONO"],
+            "minSpeed" : 0,
+            "maxSpeed" : 15,
+            "balise":""
+        },
+        {
+            "name": "Cousson",
+            "url": "44.054/6.240?43.940,6.241,10,m:eSAaglz",
+            "goodDirection" : ["SO"],
+            "minSpeed" : 0,
+            "maxSpeed" : 15,
+            "balise":""
+        }
+    ]
+}
