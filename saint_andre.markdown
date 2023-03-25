@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le samedi 25 mars 06:36
+page mise à jour le samedi 25 mars 10:35
 
 ## samedi 25 mars
 
@@ -116,10 +116,10 @@ page mise à jour le samedi 25 mars 06:36
 <tr>
         <td><strong>Colombis</strong><br><a href="https://windy.com/44.494/6.216?44.559,6.262,10">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">O, OSO, SO</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>5-31km/h ONO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-29km/h ONO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-57km/h NO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-59km/h NO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-31km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-33km/h NO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-53km/h NO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-53km/h NO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -136,10 +136,10 @@ page mise à jour le samedi 25 mars 06:36
 <tr>
         <td><strong>Batie Neuve</strong><br><a href="https://windy.com/44.584/6.236?44.559,6.262,10,m:eTtagly">WINDY</a> - <span class=""><a href="https://www.openwindmap.org/PP554">BALISE</a> </span><br> <span class="vent-favorable">O, OSO, SO, SSO, S</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>7-46km/h NNO</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-46km/h NO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-51km/h NNO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-53km/h NO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-48km/h NO</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-40km/h NO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-48km/h NNO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-48km/h NNO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -163,9 +163,9 @@ page mise à jour le samedi 25 mars 06:36
         <td><strong>Colombis</strong><br><a href="https://windy.com/44.494/6.216?44.559,6.262,10">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">O, OSO, SO</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
             <td><div class="not-flyable"><p>3-18km/h E</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>1-16km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>1-16km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-20km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>0-16km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>1-18km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-22km/h O</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -173,9 +173,9 @@ page mise à jour le samedi 25 mars 06:36
         <td><strong>Batie Neuve</strong><br><a href="https://windy.com/44.584/6.236?44.559,6.262,10,m:eTtagly">WINDY</a> - <span class=""><a href="https://www.openwindmap.org/PP554">BALISE</a> </span><br> <span class="vent-favorable">O, OSO, SO, SSO, S</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
             <td><div class="not-flyable"><p>5-24km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>1-18km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>3-20km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>3-22km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>1-16km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-22km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-24km/h SO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -209,9 +209,9 @@ page mise à jour le samedi 25 mars 06:36
         <td><strong>Batie Neuve</strong><br><a href="https://windy.com/44.584/6.236?44.559,6.262,10,m:eTtagly">WINDY</a> - <span class=""><a href="https://www.openwindmap.org/PP554">BALISE</a> </span><br> <span class="vent-favorable">O, OSO, SO, SSO, S</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
             <td><div class="not-flyable"><p>3-22km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>3-24km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-38km/h ONO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-44km/h NO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-25km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-31km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-40km/h NO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -219,9 +219,9 @@ page mise à jour le samedi 25 mars 06:36
         <td><strong>Colombis</strong><br><a href="https://windy.com/44.494/6.216?44.559,6.262,10">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">O, OSO, SO</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
             <td><div class="not-flyable"><p>5-16km/h E</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-18km/h SE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-18km/h SSE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-24km/h SO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>11-33km/h ONO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-40km/h NO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -232,6 +232,42 @@ page mise à jour le samedi 25 mars 06:36
             <td><div class="not-flyable"><p>3-25km/h SSO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>7-37km/h ONO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>9-44km/h ONO</p><p>🌞 0mm/h</p></div></td>
+            
+        
+    </tr>
+
+</tbody>
+</table>
+{:/}
+## jeudi 30 mars
+
+{::nomarkdown}
+<table>
+  <tbody>
+    <tr>
+      <td>Spot</td>
+      <td>7-10h</td>
+      <td>10-13h</td>
+      <td>13-16h</td>
+      <td>16h-19h</td>
+    </tr>
+<tr>
+        <td><strong>Colombis</strong><br><a href="https://windy.com/44.494/6.216?44.559,6.262,10">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">O, OSO, SO</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>5-18km/h E</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-16km/h ESE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-25km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-31km/h O</p><p>🌞 0mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
+        <td><strong>Batie Neuve</strong><br><a href="https://windy.com/44.584/6.236?44.559,6.262,10,m:eTtagly">WINDY</a> - <span class=""><a href="https://www.openwindmap.org/PP554">BALISE</a> </span><br> <span class="vent-favorable">O, OSO, SO, SSO, S</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>3-25km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>1-18km/h SSE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-38km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-40km/h O</p><p>🌧 0.2mm/h</p></div></td>
             
         
     </tr>
