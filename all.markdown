@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le dimanche 26 mars 07:03
+page mise à jour le dimanche 26 mars 10:03
 
 ## dimanche 26 mars
 
@@ -88,7 +88,7 @@ page mise à jour le dimanche 26 mars 07:03
         <td><strong>Wissant</strong><br><a href="https://windy.com/50.885/1.653?50.488,1.653,8,m:e3XagdU">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">ONO, NO, NNO</span><br><span class="force-vent">de 20km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-31km/h ENE</p><p>🌧 4.6mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>18-31km/h ENE</p><p>🌧 4.5mm/h</p></div></td> 
             <td><div class="not-flyable"><p>12-27km/h NE</p><p>🌧 3.9mm/h</p></div></td> 
             <td><div class="not-flyable"><p>24-37km/h NNE</p><p>🌧 3.7mm/h</p></div></td> 
         
