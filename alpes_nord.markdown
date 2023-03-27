@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le lundi 27 mars 06:26
+page mise à jour le lundi 27 mars 10:25
 
 ## lundi 27 mars
 
@@ -114,16 +114,6 @@ page mise à jour le lundi 27 mars 06:26
       <td>16h-19h</td>
     </tr>
 <tr>
-        <td><strong>Planfait</strong><br><a href="https://windy.com/45.853/6.223?45.415,6.223,8">WINDY</a> - <span class=""><a href="https://www.openwindmap.org/PP496">BALISE</a> </span><br> <span class="vent-favorable">O</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>5-24km/h ESE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-24km/h SE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>3-24km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-22km/h SO</p><p>🌞 0mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
         <td><strong>Forclaz</strong><br><a href="https://windy.com/45.814/6.247?45.375,6.246,8,m:eVwaglz">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">N, NNO, NO, ONO, O</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
             <td><div class="not-flyable"><p>5-24km/h ESE</p><p>🌞 0mm/h</p></div></td>
@@ -134,12 +124,22 @@ page mise à jour le lundi 27 mars 06:26
         
     </tr>
 <tr>
+        <td><strong>Planfait</strong><br><a href="https://windy.com/45.853/6.223?45.415,6.223,8">WINDY</a> - <span class=""><a href="https://www.openwindmap.org/PP496">BALISE</a> </span><br> <span class="vent-favorable">O</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>7-27km/h ESE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-27km/h SE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-25km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-25km/h ESE</p><p>🌧 0.7mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
         <td><strong>Saint Hilaire</strong><br><a href="https://windy.com/45.307/5.888?45.087,5.889,9,m:eUFagkX">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=61">BALISE</a> </span><br> <span class="vent-favorable">N, NNE, NE, ESE, E, SO, SSO, SSE, SE, ESE, E</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>3-22km/h ESE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>3-24km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>7-33km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>7-31km/h SSE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-25km/h ESE</p><p>🌧 1.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-25km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-27km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-27km/h S</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -162,20 +162,20 @@ page mise à jour le lundi 27 mars 06:26
 <tr>
         <td><strong>Planfait</strong><br><a href="https://windy.com/45.853/6.223?45.415,6.223,8">WINDY</a> - <span class=""><a href="https://www.openwindmap.org/PP496">BALISE</a> </span><br> <span class="vent-favorable">O</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>3-27km/h SE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-35km/h SSE</p><p>🌧 0.7mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-31km/h SSO</p><p>🌧 0.7mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-38km/h O</p><p>🌧 1.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-25km/h SE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-29km/h OSO</p><p>🌧 0.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-40km/h SE</p><p>🌧 5mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-37km/h ONO</p><p>🌧 4.2mm/h</p></div></td>
             
         
     </tr>
 <tr>
         <td><strong>Saint Hilaire</strong><br><a href="https://windy.com/45.307/5.888?45.087,5.889,9,m:eUFagkX">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=61">BALISE</a> </span><br> <span class="vent-favorable">N, NNE, NE, ESE, E, SO, SSO, SSE, SE, ESE, E</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>5-53km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>3-53km/h SSE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>7-48km/h SO</p><p>🌧 0.3mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-55km/h SSO</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-51km/h SSE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-53km/h NO</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-46km/h OSO</p><p>🌧 3.6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-57km/h SO</p><p>🌧 2.3mm/h</p></div></td>
             
         
     </tr>
@@ -206,16 +206,6 @@ page mise à jour le lundi 27 mars 06:26
       <td>16h-19h</td>
     </tr>
 <tr>
-        <td><strong>Planfait</strong><br><a href="https://windy.com/45.853/6.223?45.415,6.223,8">WINDY</a> - <span class=""><a href="https://www.openwindmap.org/PP496">BALISE</a> </span><br> <span class="vent-favorable">O</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>7-33km/h ESE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-40km/h ESE</p><p>🌧 2.5mm/h</p></div></td>
-            <td><div class="not-flyable"><p>7-46km/h SE</p><p>🌧 4.3mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-42km/h SE</p><p>🌧 6mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
         <td><strong>Forclaz</strong><br><a href="https://windy.com/45.814/6.247?45.375,6.246,8,m:eVwaglz">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">N, NNO, NO, ONO, O</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
             <td><div class="not-flyable"><p>5-31km/h ESE</p><p>🌞 0mm/h</p></div></td>
@@ -226,12 +216,58 @@ page mise à jour le lundi 27 mars 06:26
         
     </tr>
 <tr>
+        <td><strong>Planfait</strong><br><a href="https://windy.com/45.853/6.223?45.415,6.223,8">WINDY</a> - <span class=""><a href="https://www.openwindmap.org/PP496">BALISE</a> </span><br> <span class="vent-favorable">O</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>11-50km/h ESE</p><p>🌧 0.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-61km/h SE</p><p>🌧 2.5mm/h</p></div></td>
+            <td><div class="not-flyable"><p>11-62km/h S</p><p>🌧 3.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-61km/h S</p><p>🌧 4.5mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
         <td><strong>Saint Hilaire</strong><br><a href="https://windy.com/45.307/5.888?45.087,5.889,9,m:eUFagkX">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=61">BALISE</a> </span><br> <span class="vent-favorable">N, NNE, NE, ESE, E, SO, SSO, SSE, SE, ESE, E</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>5-35km/h SE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-55km/h S</p><p>🌧 2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-59km/h S</p><p>🌧 7mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-59km/h S</p><p>🌧 1.7mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-59km/h S</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-79km/h SSO</p><p>🌧 2.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-79km/h S</p><p>🌧 2.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-66km/h S</p><p>🌧 5mm/h</p></div></td>
+            
+        
+    </tr>
+
+</tbody>
+</table>
+{:/}
+## samedi 01 avril
+
+{::nomarkdown}
+<table>
+  <tbody>
+    <tr>
+      <td>Spot</td>
+      <td>7-10h</td>
+      <td>10-13h</td>
+      <td>13-16h</td>
+      <td>16h-19h</td>
+    </tr>
+<tr>
+        <td><strong>Planfait</strong><br><a href="https://windy.com/45.853/6.223?45.415,6.223,8">WINDY</a> - <span class=""><a href="https://www.openwindmap.org/PP496">BALISE</a> </span><br> <span class="vent-favorable">O</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>3-37km/h SSE</p><p>🌧 4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-33km/h SSO</p><p>🌧 1.8mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-38km/h SO</p><p>🌧 2.1mm/h</p></div></td>
+            <td><div class="not-flyable"><p>1-44km/h OSO</p><p>🌧 3.7mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
+        <td><strong>Saint Hilaire</strong><br><a href="https://windy.com/45.307/5.888?45.087,5.889,9,m:eUFagkX">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=61">BALISE</a> </span><br> <span class="vent-favorable">N, NNE, NE, ESE, E, SO, SSO, SSE, SE, ESE, E</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>3-53km/h SO</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-55km/h SSO</p><p>🌧 1.6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-53km/h SO</p><p>🌧 4.1mm/h</p></div></td>
+            <td><div class="not-flyable"><p>1-44km/h ESE</p><p>🌧 2.6mm/h</p></div></td>
             
         
     </tr>
