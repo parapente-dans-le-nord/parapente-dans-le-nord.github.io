@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le mardi 28 mars 07:03
+page mise à jour le mardi 28 mars 10:03
 
 ## mardi 28 mars
 
@@ -114,10 +114,10 @@ page mise à jour le mardi 28 mars 07:03
 <tr>
         <td><strong>Cran aux oeufs</strong><br><a href="https://windy.com/50.847/1.584?50.451,1.582,8,m:e3TagdN">WINDY</a> - <span class=""><a href="https://www.meteociel.fr/temps-reel/obs_villes.php?code2=7004">BALISE</a> </span><br> <span class="vent-favorable">OSO</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>27-38km/h SSE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>29-46km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>31-44km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>29-42km/h SSE</p><p>🌧 0.6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>27-37km/h SSE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>27-38km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>29-38km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>31-50km/h S</p><p>🌧 0.5mm/h</p></div></td>
             
         
     </tr>
@@ -218,6 +218,16 @@ page mise à jour le mardi 28 mars 07:03
         
     </tr>
 <tr>
+        <td><strong>Cran aux oeufs</strong><br><a href="https://windy.com/50.847/1.584?50.451,1.582,8,m:e3TagdN">WINDY</a> - <span class=""><a href="https://www.meteociel.fr/temps-reel/obs_villes.php?code2=7004">BALISE</a> </span><br> <span class="vent-favorable">OSO</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>24-33km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>25-31km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>27-35km/h SSO</p><p>🌧 0.7mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-35km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
         <td><strong>Wissant</strong><br><a href="https://windy.com/50.885/1.653?50.488,1.653,8,m:e3XagdU">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">ONO, NO, NNO</span><br><span class="force-vent">de 20km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>20-35km/h SSO</p><p>🌞 0mm/h</p></div></td>
@@ -234,16 +244,6 @@ page mise à jour le mardi 28 mars 07:03
             <td><div class="not-flyable"><p>14-24km/h S</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>14-29km/h S</p><p>🌧 0.5mm/h</p></div></td>
             <td><div class="not-flyable"><p>16-31km/h SO</p><p>🌞 0mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
-        <td><strong>Cran aux oeufs</strong><br><a href="https://windy.com/50.847/1.584?50.451,1.582,8,m:e3TagdN">WINDY</a> - <span class=""><a href="https://www.meteociel.fr/temps-reel/obs_villes.php?code2=7004">BALISE</a> </span><br> <span class="vent-favorable">OSO</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>22-33km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>27-38km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>25-46km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-29km/h SSO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -296,10 +296,10 @@ page mise à jour le mardi 28 mars 07:03
 <tr>
         <td><strong>Cran aux oeufs</strong><br><a href="https://windy.com/50.847/1.584?50.451,1.582,8,m:e3TagdN">WINDY</a> - <span class=""><a href="https://www.meteociel.fr/temps-reel/obs_villes.php?code2=7004">BALISE</a> </span><br> <span class="vent-favorable">OSO</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>42-55km/h OSO</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>40-55km/h OSO</p><p>🌧 0.2mm/h</p></div></td>
             <td><div class="not-flyable"><p>42-55km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>44-57km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>42-55km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>42-55km/h SO</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>40-53km/h SO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -420,6 +420,16 @@ page mise à jour le mardi 28 mars 07:03
         
     </tr>
 <tr>
+        <td><strong>Cran aux oeufs</strong><br><a href="https://windy.com/50.847/1.584?50.451,1.582,8,m:e3TagdN">WINDY</a> - <span class=""><a href="https://www.meteociel.fr/temps-reel/obs_villes.php?code2=7004">BALISE</a> </span><br> <span class="vent-favorable">OSO</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>40-57km/h S</p><p>🌧 2.7mm/h</p></div></td>
+            <td><div class="not-flyable"><p>44-61km/h SO</p><p>🌧 6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>50-68km/h OSO</p><p>🌧 1mm/h</p></div></td>
+            <td><div class="not-flyable"><p>51-68km/h O</p><p>🌧 3mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
         <td><strong>Hornu</strong><br><a href="https://windy.com/50.424/3.819?50.024,3.818,8,m:e3daghw">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=5040">BALISE</a> </span><br> <span class="vent-favorable">OSO, ONO, O</span><br><span class="force-vent">de 10km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>27-53km/h S</p><p>🌧 0.9mm/h</p></div></td>
@@ -436,16 +446,6 @@ page mise à jour le mardi 28 mars 07:03
             <td><div class="not-flyable"><p>31-57km/h SSO</p><p>🌧 2.7mm/h</p></div></td>
             <td><div class="not-flyable"><p>38-77km/h OSO</p><p>🌧 2.9mm/h</p></div></td>
             <td><div class="not-flyable"><p>42-79km/h OSO</p><p>🌧 3.5mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
-        <td><strong>Cran aux oeufs</strong><br><a href="https://windy.com/50.847/1.584?50.451,1.582,8,m:e3TagdN">WINDY</a> - <span class=""><a href="https://www.meteociel.fr/temps-reel/obs_villes.php?code2=7004">BALISE</a> </span><br> <span class="vent-favorable">OSO</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>37-53km/h S</p><p>🌧 0.8mm/h</p></div></td>
-            <td><div class="not-flyable"><p>35-53km/h SSE</p><p>🌧 3.7mm/h</p></div></td>
-            <td><div class="not-flyable"><p>50-68km/h OSO</p><p>🌧 1mm/h</p></div></td>
-            <td><div class="not-flyable"><p>51-68km/h O</p><p>🌧 3mm/h</p></div></td>
             
         
     </tr>
