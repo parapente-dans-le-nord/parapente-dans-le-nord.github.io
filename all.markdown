@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le mercredi 29 mars 10:03
+page mise à jour le mercredi 29 mars 13:03
 
 ## mercredi 29 mars
 
@@ -115,9 +115,9 @@ page mise à jour le mercredi 29 mars 10:03
         <td><strong>Wissant</strong><br><a href="https://windy.com/50.885/1.653?50.488,1.653,8,m:e3XagdU">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">ONO, NO, NNO</span><br><span class="force-vent">de 20km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>12-24km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-33km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-31km/h SSO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>27-44km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-37km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-38km/h SSO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -324,6 +324,16 @@ page mise à jour le mercredi 29 mars 10:03
         
     </tr>
 <tr>
+        <td><strong>Wissant</strong><br><a href="https://windy.com/50.885/1.653?50.488,1.653,8,m:e3XagdU">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">ONO, NO, NNO</span><br><span class="force-vent">de 20km/h jusqu'à 30km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>31-51km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>25-46km/h S</p><p>🌧 4.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-38km/h NO</p><p>🌧 2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-40km/h NO</p><p>🌧 0.3mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
         <td><strong>Hornu</strong><br><a href="https://windy.com/50.424/3.819?50.024,3.818,8,m:e3daghw">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=5040">BALISE</a> </span><br> <span class="vent-favorable">OSO, ONO, O</span><br><span class="force-vent">de 10km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>31-61km/h SSO</p><p>🌧 0.5mm/h</p></div></td>
@@ -340,16 +350,6 @@ page mise à jour le mercredi 29 mars 10:03
             <td><div class="not-flyable"><p>35-66km/h SSO</p><p>🌧 3.9mm/h</p></div></td>
             <td><div class="not-flyable"><p>40-77km/h SO</p><p>🌧 3.3mm/h</p></div></td>
             <td><div class="not-flyable"><p>42-88km/h OSO</p><p>🌧 2.4mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
-        <td><strong>Wissant</strong><br><a href="https://windy.com/50.885/1.653?50.488,1.653,8,m:e3XagdU">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">ONO, NO, NNO</span><br><span class="force-vent">de 20km/h jusqu'à 30km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>51-75km/h SSO</p><p>🌧 3.6mm/h</p></div></td>
-            <td><div class="not-flyable"><p>50-75km/h SO</p><p>🌧 2.8mm/h</p></div></td>
-            <td><div class="not-flyable"><p>51-79km/h OSO</p><p>🌧 1.7mm/h</p></div></td>
-            <td><div class="not-flyable"><p>44-79km/h O</p><p>🌧 1.3mm/h</p></div></td>
             
         
     </tr>
@@ -440,22 +440,22 @@ page mise à jour le mercredi 29 mars 10:03
         
     </tr>
 <tr>
-        <td><strong>Wissant</strong><br><a href="https://windy.com/50.885/1.653?50.488,1.653,8,m:e3XagdU">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">ONO, NO, NNO</span><br><span class="force-vent">de 20km/h jusqu'à 30km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>16-29km/h NO</p><p>🌧 1.3mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-27km/h N</p><p>🌧 1.3mm/h</p></div></td>
-            <td><div class="not-flyable"><p>22-31km/h N</p><p>🌧 1mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-31km/h N</p><p>🌧 0.4mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
         <td><strong>Frencq</strong><br><a href="https://windy.com/50.559/1.669?50.159,1.670,8,m:e3qagdV">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">NE, NNE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
             <td><div class="not-flyable"><p>11-25km/h NO</p><p>🌧 0.5mm/h</p></div></td>
             <td><div class="not-flyable"><p>7-20km/h ONO</p><p>🌧 1.2mm/h</p></div></td>
             <td><div class="not-flyable"><p>12-33km/h NNO</p><p>🌧 2.4mm/h</p></div></td>
             <td><div class="not-flyable"><p>16-29km/h N</p><p>🌧 1.2mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
+        <td><strong>Wissant</strong><br><a href="https://windy.com/50.885/1.653?50.488,1.653,8,m:e3XagdU">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">ONO, NO, NNO</span><br><span class="force-vent">de 20km/h jusqu'à 30km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>12-24km/h NNO</p><p>🌧 1.6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-18km/h NNO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-22km/h NNO</p><p>🌧 1.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-33km/h NNE</p><p>🌧 0.2mm/h</p></div></td>
             
         
     </tr>
@@ -596,16 +596,6 @@ page mise à jour le mercredi 29 mars 10:03
         
     </tr>
 <tr>
-        <td><strong>Wissant</strong><br><a href="https://windy.com/50.885/1.653?50.488,1.653,8,m:e3XagdU">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">ONO, NO, NNO</span><br><span class="force-vent">de 20km/h jusqu'à 30km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>29-42km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>29-44km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>29-42km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>25-44km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
         <td><strong>Mont Clairon</strong><br><a href="https://windy.com/49.919/2.729?49.515,2.730,8,m:e2magfH">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">SO</span><br><span class="force-vent">de 12km/h jusqu'à 25km/h</span> </td>
         
             <td><div class="not-flyable"><p>18-33km/h NNE</p><p>🌧 0.2mm/h</p></div></td>
@@ -632,6 +622,16 @@ page mise à jour le mercredi 29 mars 10:03
             <td><div class="not-flyable"><p>20-42km/h NNE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>18-40km/h NE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>24-44km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
+        <td><strong>Wissant</strong><br><a href="https://windy.com/50.885/1.653?50.488,1.653,8,m:e3XagdU">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">ONO, NO, NNO</span><br><span class="force-vent">de 20km/h jusqu'à 30km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>29-44km/h N</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>31-46km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>29-46km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>31-44km/h NNE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -718,16 +718,6 @@ page mise à jour le mercredi 29 mars 10:03
             <td><div class="not-flyable"><p>7-18km/h ENE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>14-25km/h NNE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>16-31km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
-        <td><strong>Wissant</strong><br><a href="https://windy.com/50.885/1.653?50.488,1.653,8,m:e3XagdU">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">ONO, NO, NNO</span><br><span class="force-vent">de 20km/h jusqu'à 30km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>11-16km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-24km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-25km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-27km/h NNE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
