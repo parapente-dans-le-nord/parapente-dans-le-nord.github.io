@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le mercredi 29 mars 19:20
+page mise à jour le mercredi 29 mars 22:20
 
 ## mercredi 29 mars
 
@@ -16,10 +16,10 @@ page mise à jour le mercredi 29 mars 19:20
   <tbody>
     <tr>
       <td>Spot</td>
-      <td>7-10h</td>
-      <td>10-13h</td>
-      <td>13-16h</td>
-      <td>16h-19h</td>
+      <td>8-11h</td>
+      <td>11-14h</td>
+      <td>14-17h</td>
+      <td>17h-20h</td>
     </tr>
 <tr>
         <td><strong>Mont Myon</strong><br><a href="https://windy.com/46.331/5.397?45.898,5.394,8,m:eWoagj8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=70">BALISE</a> </span><br> <span class="vent-favorable">SO, OSO, O, ONO, NO</span><br><span class="force-vent">de 0km/h jusqu'à 20km/h</span> </td>
@@ -50,10 +50,10 @@ page mise à jour le mercredi 29 mars 19:20
   <tbody>
     <tr>
       <td>Spot</td>
-      <td>7-10h</td>
-      <td>10-13h</td>
-      <td>13-16h</td>
-      <td>16h-19h</td>
+      <td>8-11h</td>
+      <td>11-14h</td>
+      <td>14-17h</td>
+      <td>17h-20h</td>
     </tr>
 <tr>
         <td><strong>Mont Myon</strong><br><a href="https://windy.com/46.331/5.397?45.898,5.394,8,m:eWoagj8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=70">BALISE</a> </span><br> <span class="vent-favorable">SO, OSO, O, ONO, NO</span><br><span class="force-vent">de 0km/h jusqu'à 20km/h</span> </td>
@@ -86,10 +86,10 @@ page mise à jour le mercredi 29 mars 19:20
   <tbody>
     <tr>
       <td>Spot</td>
-      <td>7-10h</td>
-      <td>10-13h</td>
-      <td>13-16h</td>
-      <td>16h-19h</td>
+      <td>8-11h</td>
+      <td>11-14h</td>
+      <td>14-17h</td>
+      <td>17h-20h</td>
     </tr>
 <tr>
         <td><strong>Mont Myon</strong><br><a href="https://windy.com/46.331/5.397?45.898,5.394,8,m:eWoagj8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=70">BALISE</a> </span><br> <span class="vent-favorable">SO, OSO, O, ONO, NO</span><br><span class="force-vent">de 0km/h jusqu'à 20km/h</span> </td>
@@ -122,10 +122,10 @@ page mise à jour le mercredi 29 mars 19:20
   <tbody>
     <tr>
       <td>Spot</td>
-      <td>7-10h</td>
-      <td>10-13h</td>
-      <td>13-16h</td>
-      <td>16h-19h</td>
+      <td>8-11h</td>
+      <td>11-14h</td>
+      <td>14-17h</td>
+      <td>17h-20h</td>
     </tr>
 <tr>
         <td><strong>Mont Myon</strong><br><a href="https://windy.com/46.331/5.397?45.898,5.394,8,m:eWoagj8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=70">BALISE</a> </span><br> <span class="vent-favorable">SO, OSO, O, ONO, NO</span><br><span class="force-vent">de 0km/h jusqu'à 20km/h</span> </td>
@@ -158,10 +158,10 @@ page mise à jour le mercredi 29 mars 19:20
   <tbody>
     <tr>
       <td>Spot</td>
-      <td>7-10h</td>
-      <td>10-13h</td>
-      <td>13-16h</td>
-      <td>16h-19h</td>
+      <td>8-11h</td>
+      <td>11-14h</td>
+      <td>14-17h</td>
+      <td>17h-20h</td>
     </tr>
 <tr>
         <td><strong>Mont Poupet</strong><br><a href="https://windy.com/46.970/5.876?46.541,5.876,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=92">BALISE</a> </span><br> <span class="vent-favorable">N, NNO, NO, ONO, O, OSO, SSO, SO, S, NNE, NE</span><br><span class="force-vent">de 0km/h jusqu'à 20km/h</span> </td>
@@ -194,10 +194,10 @@ page mise à jour le mercredi 29 mars 19:20
   <tbody>
     <tr>
       <td>Spot</td>
-      <td>7-10h</td>
-      <td>10-13h</td>
-      <td>13-16h</td>
-      <td>16h-19h</td>
+      <td>8-11h</td>
+      <td>11-14h</td>
+      <td>14-17h</td>
+      <td>17h-20h</td>
     </tr>
 <tr>
         <td><strong>Mont Poupet</strong><br><a href="https://windy.com/46.970/5.876?46.541,5.876,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=92">BALISE</a> </span><br> <span class="vent-favorable">N, NNO, NO, ONO, O, OSO, SSO, SO, S, NNE, NE</span><br><span class="force-vent">de 0km/h jusqu'à 20km/h</span> </td>
