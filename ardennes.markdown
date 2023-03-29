@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le mercredi 29 mars 13:10
+page mise à jour le mercredi 29 mars 19:10
 
 ## mercredi 29 mars
 
@@ -24,21 +24,19 @@ page mise à jour le mercredi 29 mars 13:10
 <tr>
         <td><strong>Revin</strong><br><a href="https://windy.com/49.948/4.625?49.543,4.625,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=5019">BALISE</a> </span><br> <span class="vent-favorable">SSO, S, SSE</span><br><span class="force-vent">de 5km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>5-11km/h O</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>7-20km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-31km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-27km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-27km/h S</p><p>🌞 0mm/h</p></div></td> 
         
     </tr>
 <tr>
         <td><strong>Haybes-Fumay</strong><br><a href="https://windy.com/49.998/4.715?49.913,4.738,10">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=104">BALISE</a> </span><br> <span class="vent-favorable">O, ONO, NO</span><br><span class="force-vent">de 10km/h jusqu'à 20km/h</span> </td>
         
-            <td><div class="not-flyable"><p>3-11km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-25km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-31km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-27km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-29km/h S</p><p>🌞 0mm/h</p></div></td> 
         
     </tr>
 
@@ -60,20 +58,20 @@ page mise à jour le mercredi 29 mars 13:10
 <tr>
         <td><strong>Revin</strong><br><a href="https://windy.com/49.948/4.625?49.543,4.625,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=5019">BALISE</a> </span><br> <span class="vent-favorable">SSO, S, SSE</span><br><span class="force-vent">de 5km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>16-46km/h SO</p><p>🌧 0.8mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-46km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-50km/h SO</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-37km/h SO</p><p>🌧 3.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-48km/h SO</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-44km/h OSO</p><p>🌧 0.9mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-44km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-40km/h SO</p><p>🌧 0.6mm/h</p></div></td>
             
         
     </tr>
 <tr>
         <td><strong>Haybes-Fumay</strong><br><a href="https://windy.com/49.998/4.715?49.913,4.738,10">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=104">BALISE</a> </span><br> <span class="vent-favorable">O, ONO, NO</span><br><span class="force-vent">de 10km/h jusqu'à 20km/h</span> </td>
         
-            <td><div class="not-flyable"><p>18-50km/h SO</p><p>🌧 0.7mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-46km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-50km/h SO</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-38km/h SSO</p><p>🌧 2.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-40km/h SO</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-48km/h SO</p><p>🌧 0.5mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-42km/h SO</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-44km/h SSO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -96,20 +94,20 @@ page mise à jour le mercredi 29 mars 13:10
 <tr>
         <td><strong>Revin</strong><br><a href="https://windy.com/49.948/4.625?49.543,4.625,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=5019">BALISE</a> </span><br> <span class="vent-favorable">SSO, S, SSE</span><br><span class="force-vent">de 5km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>31-61km/h SO</p><p>🌧 3.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>37-79km/h SO</p><p>🌧 2.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-33km/h SO</p><p>🌧 4.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>33-77km/h SO</p><p>🌧 2.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>31-77km/h SSO</p><p>🌧 2.6mm/h</p></div></td>
             <td><div class="not-flyable"><p>37-79km/h SO</p><p>🌧 3.8mm/h</p></div></td>
-            <td><div class="not-flyable"><p>35-81km/h OSO</p><p>🌧 4.5mm/h</p></div></td>
             
         
     </tr>
 <tr>
         <td><strong>Haybes-Fumay</strong><br><a href="https://windy.com/49.998/4.715?49.913,4.738,10">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=104">BALISE</a> </span><br> <span class="vent-favorable">O, ONO, NO</span><br><span class="force-vent">de 10km/h jusqu'à 20km/h</span> </td>
         
-            <td><div class="not-flyable"><p>29-61km/h SSO</p><p>🌧 3.1mm/h</p></div></td>
-            <td><div class="not-flyable"><p>35-81km/h SO</p><p>🌧 1.9mm/h</p></div></td>
-            <td><div class="not-flyable"><p>37-83km/h SO</p><p>🌧 4.6mm/h</p></div></td>
-            <td><div class="not-flyable"><p>33-83km/h SO</p><p>🌧 4.6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-38km/h SO</p><p>🌧 3.7mm/h</p></div></td>
+            <td><div class="not-flyable"><p>33-83km/h SO</p><p>🌧 2.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>27-81km/h SSO</p><p>🌧 2.8mm/h</p></div></td>
+            <td><div class="not-flyable"><p>35-79km/h SO</p><p>🌧 4.3mm/h</p></div></td>
             
         
     </tr>
@@ -132,20 +130,20 @@ page mise à jour le mercredi 29 mars 13:10
 <tr>
         <td><strong>Haybes-Fumay</strong><br><a href="https://windy.com/49.998/4.715?49.913,4.738,10">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=104">BALISE</a> </span><br> <span class="vent-favorable">O, ONO, NO</span><br><span class="force-vent">de 10km/h jusqu'à 20km/h</span> </td>
         
-            <td><div class="not-flyable"><p>16-44km/h O</p><p>🌧 0.8mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-35km/h O</p><p>🌧 1.1mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-37km/h O</p><p>🌧 1.7mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-35km/h NO</p><p>🌧 1.1mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-53km/h O</p><p>🌧 3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-42km/h O</p><p>🌧 0.6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-44km/h ONO</p><p>🌧 2.1mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-38km/h NO</p><p>🌧 0.5mm/h</p></div></td>
             
         
     </tr>
 <tr>
         <td><strong>Revin</strong><br><a href="https://windy.com/49.948/4.625?49.543,4.625,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=5019">BALISE</a> </span><br> <span class="vent-favorable">SSO, S, SSE</span><br><span class="force-vent">de 5km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>18-44km/h O</p><p>🌧 1mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-37km/h O</p><p>🌧 1.5mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-37km/h O</p><p>🌧 1.9mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-35km/h NO</p><p>🌧 0.8mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-51km/h O</p><p>🌧 3.9mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-42km/h O</p><p>🌧 0.7mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-44km/h ONO</p><p>🌧 2.5mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-38km/h NO</p><p>🌧 0.8mm/h</p></div></td>
             
         
     </tr>
