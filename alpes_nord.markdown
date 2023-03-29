@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le mercredi 29 mars 19:25
+page mise à jour le mercredi 29 mars 22:26
 
 ## mercredi 29 mars
 
@@ -16,10 +16,10 @@ page mise à jour le mercredi 29 mars 19:25
   <tbody>
     <tr>
       <td>Spot</td>
-      <td>7-10h</td>
-      <td>10-13h</td>
-      <td>13-16h</td>
-      <td>16h-19h</td>
+      <td>8-11h</td>
+      <td>11-14h</td>
+      <td>14-17h</td>
+      <td>17h-20h</td>
     </tr>
 <tr>
         <td><strong>Planfait</strong><br><a href="https://windy.com/45.853/6.223?45.415,6.223,8">WINDY</a> - <span class=""><a href="https://www.openwindmap.org/PP496">BALISE</a> </span><br> <span class="vent-favorable">O</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
@@ -59,10 +59,10 @@ page mise à jour le mercredi 29 mars 19:25
   <tbody>
     <tr>
       <td>Spot</td>
-      <td>7-10h</td>
-      <td>10-13h</td>
-      <td>13-16h</td>
-      <td>16h-19h</td>
+      <td>8-11h</td>
+      <td>11-14h</td>
+      <td>14-17h</td>
+      <td>17h-20h</td>
     </tr>
 <tr>
         <td><strong>Forclaz</strong><br><a href="https://windy.com/45.814/6.247?45.375,6.246,8,m:eVwaglz">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">N, NNO, NO, ONO, O</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
@@ -105,10 +105,10 @@ page mise à jour le mercredi 29 mars 19:25
   <tbody>
     <tr>
       <td>Spot</td>
-      <td>7-10h</td>
-      <td>10-13h</td>
-      <td>13-16h</td>
-      <td>16h-19h</td>
+      <td>8-11h</td>
+      <td>11-14h</td>
+      <td>14-17h</td>
+      <td>17h-20h</td>
     </tr>
 <tr>
         <td><strong>Saint Hilaire</strong><br><a href="https://windy.com/45.307/5.888?45.087,5.889,9,m:eUFagkX">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=61">BALISE</a> </span><br> <span class="vent-favorable">N, NNE, NE, ESE, E, SO, SSO, SSE, SE, ESE, E</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
@@ -151,10 +151,10 @@ page mise à jour le mercredi 29 mars 19:25
   <tbody>
     <tr>
       <td>Spot</td>
-      <td>7-10h</td>
-      <td>10-13h</td>
-      <td>13-16h</td>
-      <td>16h-19h</td>
+      <td>8-11h</td>
+      <td>11-14h</td>
+      <td>14-17h</td>
+      <td>17h-20h</td>
     </tr>
 <tr>
         <td><strong>Planfait</strong><br><a href="https://windy.com/45.853/6.223?45.415,6.223,8">WINDY</a> - <span class=""><a href="https://www.openwindmap.org/PP496">BALISE</a> </span><br> <span class="vent-favorable">O</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
@@ -197,10 +197,10 @@ page mise à jour le mercredi 29 mars 19:25
   <tbody>
     <tr>
       <td>Spot</td>
-      <td>7-10h</td>
-      <td>10-13h</td>
-      <td>13-16h</td>
-      <td>16h-19h</td>
+      <td>8-11h</td>
+      <td>11-14h</td>
+      <td>14-17h</td>
+      <td>17h-20h</td>
     </tr>
 <tr>
         <td><strong>Saint Hilaire</strong><br><a href="https://windy.com/45.307/5.888?45.087,5.889,9,m:eUFagkX">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=61">BALISE</a> </span><br> <span class="vent-favorable">N, NNE, NE, ESE, E, SO, SSO, SSE, SE, ESE, E</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
@@ -243,10 +243,10 @@ page mise à jour le mercredi 29 mars 19:25
   <tbody>
     <tr>
       <td>Spot</td>
-      <td>7-10h</td>
-      <td>10-13h</td>
-      <td>13-16h</td>
-      <td>16h-19h</td>
+      <td>8-11h</td>
+      <td>11-14h</td>
+      <td>14-17h</td>
+      <td>17h-20h</td>
     </tr>
 <tr>
         <td><strong>Forclaz</strong><br><a href="https://windy.com/45.814/6.247?45.375,6.246,8,m:eVwaglz">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">N, NNO, NO, ONO, O</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
