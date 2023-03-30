@@ -7,11 +7,11 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le mercredi 29 mars 22:03
+page mise à jour le jeudi 30 mars 07:03
 
 
 
-## lundi 03 avril
+## samedi 01 avril
 
 {::nomarkdown}
 <table>
@@ -24,12 +24,12 @@ page mise à jour le mercredi 29 mars 22:03
       <td>17h-20h</td>
     </tr>
 <tr>
-        <td><strong>Frencq</strong>  <br><a href="https://windy.com/50.559/1.669?50.159,1.670,8,m:e3qagdV">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">NE, NNE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
+        <td><strong>Wissant</strong>  <br><a href="https://windy.com/50.885/1.653?50.488,1.653,8,m:e3XagdU">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">ONO, NO, NNO</span><br><span class="force-vent">de 20km/h jusqu'à 30km/h</span> </td>
         
-            <td><div class="not-flyable"><p>9-14km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>12-25km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-25km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>11-25km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>31-51km/h O</p><p>🌧 1.8mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-44km/h ONO</p><p>🌧 1.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-35km/h ONO</p><p>🌧 3mm/h</p></div></td>
+            <td><div class="flyable"><p>20-29km/h NO</p><p>🌧 0.4mm/h</p></div></td>
             
         
     </tr>
