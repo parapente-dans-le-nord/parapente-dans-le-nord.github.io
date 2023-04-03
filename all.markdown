@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le lundi 03 avril 10:03
+page mise à jour le lundi 03 avril 13:03
 
 ## lundi 03 avril
 
@@ -294,16 +294,6 @@ page mise à jour le lundi 03 avril 10:03
         
     </tr>
 <tr>
-        <td><strong>Zuydcotte</strong><br><a href="https://windy.com/51.064/2.491?50.669,2.488,8,m:e4hagfk">WINDY</a> - <span class=""><a href="https://www.allosurf.net/meteo/live/dunkerque-station-meteo-lfak-8329.html">BALISE</a> </span><br> <span class="vent-favorable">NNO, N</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>5-11km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>3-12km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>3-12km/h NNO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-22km/h N</p><p>🌞 0mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
         <td><strong>Cran aux oeufs</strong><br><a href="https://windy.com/50.847/1.584?50.451,1.582,8,m:e3TagdN">WINDY</a> - <span class=""><a href="https://www.meteociel.fr/temps-reel/obs_villes.php?code2=7004">BALISE</a> </span><br> <span class="vent-favorable">OSO</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
             <td><div class="not-flyable"><p>9-16km/h S</p><p>🌞 0mm/h</p></div></td>
@@ -320,6 +310,16 @@ page mise à jour le lundi 03 avril 10:03
             <td><div class="not-flyable"><p>3-12km/h SO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>5-18km/h OSO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>11-24km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
+        <td><strong>Zuydcotte</strong><br><a href="https://windy.com/51.064/2.491?50.669,2.488,8,m:e4hagfk">WINDY</a> - <span class=""><a href="https://www.allosurf.net/meteo/live/dunkerque-station-meteo-lfak-8329.html">BALISE</a> </span><br> <span class="vent-favorable">NNO, N</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>5-11km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-11km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-12km/h N</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-20km/h N</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -450,6 +450,16 @@ page mise à jour le lundi 03 avril 10:03
         
     </tr>
 <tr>
+        <td><strong>Zuydcotte</strong><br><a href="https://windy.com/51.064/2.491?50.669,2.488,8,m:e4hagfk">WINDY</a> - <span class=""><a href="https://www.allosurf.net/meteo/live/dunkerque-station-meteo-lfak-8329.html">BALISE</a> </span><br> <span class="vent-favorable">NNO, N</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>11-18km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-20km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-27km/h SE</p><p>🌧 0.7mm/h</p></div></td>
+            <td><div class="not-flyable"><p>11-25km/h SSE</p><p>🌧 0.7mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
         <td><strong>Hornu</strong><br><a href="https://windy.com/50.424/3.819?50.024,3.818,8,m:e3daghw">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=5040">BALISE</a> </span><br> <span class="vent-favorable">OSO, ONO, O</span><br><span class="force-vent">de 10km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>11-22km/h SSO</p><p>🌧 0.9mm/h</p></div></td>
@@ -466,16 +476,6 @@ page mise à jour le lundi 03 avril 10:03
             <td><div class="not-flyable"><p>20-35km/h SSO</p><p>🌧 2.1mm/h</p></div></td>
             <td><div class="not-flyable"><p>22-42km/h SO</p><p>🌧 2.5mm/h</p></div></td>
             <td><div class="not-flyable"><p>22-44km/h SO</p><p>🌧 0.5mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
-        <td><strong>Zuydcotte</strong><br><a href="https://windy.com/51.064/2.491?50.669,2.488,8,m:e4hagfk">WINDY</a> - <span class=""><a href="https://www.allosurf.net/meteo/live/dunkerque-station-meteo-lfak-8329.html">BALISE</a> </span><br> <span class="vent-favorable">NNO, N</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>18-29km/h SSE</p><p>🌧 3.1mm/h</p></div></td>
-            <td><div class="not-flyable"><p>24-37km/h SSO</p><p>🌧 3.3mm/h</p></div></td>
-            <td><div class="not-flyable"><p>22-37km/h SO</p><p>🌧 3.6mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-38km/h SO</p><p>🌧 0.5mm/h</p></div></td>
             
         
     </tr>
@@ -528,10 +528,10 @@ page mise à jour le lundi 03 avril 10:03
 <tr>
         <td><strong>Zuydcotte</strong><br><a href="https://windy.com/51.064/2.491?50.669,2.488,8,m:e4hagfk">WINDY</a> - <span class=""><a href="https://www.allosurf.net/meteo/live/dunkerque-station-meteo-lfak-8329.html">BALISE</a> </span><br> <span class="vent-favorable">NNO, N</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
         
-            <td><div class="not-flyable"><p>24-38km/h N</p><p>🌧 0.6mm/h</p></div></td>
-            <td><div class="not-flyable"><p>29-48km/h N</p><p>🌧 0.4mm/h</p></div></td>
-            <td><div class="not-flyable"><p>27-48km/h N</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>24-46km/h N</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>27-42km/h N</p><p>🌧 0.8mm/h</p></div></td>
+            <td><div class="not-flyable"><p>31-50km/h NNE</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>33-55km/h N</p><p>🌧 0.5mm/h</p></div></td>
+            <td><div class="not-flyable"><p>29-55km/h N</p><p>🌧 0.3mm/h</p></div></td>
             
         
     </tr>
@@ -658,16 +658,6 @@ page mise à jour le lundi 03 avril 10:03
             <td><div class="not-flyable"><p>9-22km/h NNE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>5-20km/h NE</p><p>🌧 0.4mm/h</p></div></td>
             <td><div class="not-flyable"><p>11-24km/h NO</p><p>🌧 0.2mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
-        <td><strong>Zuydcotte</strong><br><a href="https://windy.com/51.064/2.491?50.669,2.488,8,m:e4hagfk">WINDY</a> - <span class=""><a href="https://www.allosurf.net/meteo/live/dunkerque-station-meteo-lfak-8329.html">BALISE</a> </span><br> <span class="vent-favorable">NNO, N</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>14-25km/h NNO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-24km/h N</p><p>🌧 0.3mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-22km/h NNE</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-24km/h NNE</p><p>🌧 0.2mm/h</p></div></td>
             
         
     </tr>
