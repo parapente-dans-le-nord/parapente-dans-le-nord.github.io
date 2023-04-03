@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le lundi 03 avril 17:03
+page mise à jour le lundi 03 avril 19:03
 
 
 
@@ -26,7 +26,7 @@ page mise à jour le lundi 03 avril 17:03
 <tr>
         <td><strong>Cran aux oeufs</strong>  <br><a href="https://windy.com/50.847/1.584?50.451,1.582,8,m:e3TagdN">WINDY</a> - <span class=""><a href="https://www.meteociel.fr/temps-reel/obs_villes.php?code2=7004">BALISE</a> </span><br> <span class="vent-favorable">OSO</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>11-16km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-16km/h SE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>11-18km/h SSO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="flyable"><p>14-20km/h OSO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>16-22km/h SO</p><p>🌞 0mm/h</p></div></td>
