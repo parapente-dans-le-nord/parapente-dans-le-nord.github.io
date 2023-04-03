@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le dimanche 02 avril 22:03
+page mise à jour le lundi 03 avril 07:03
 
 
 
@@ -52,8 +52,8 @@ page mise à jour le dimanche 02 avril 22:03
 <tr>
         <td><strong>Olhain</strong>  <br><a href="https://windy.com/50.434/2.586?50.031,2.587,8,m:e3eagft">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">SSO, S</span><br><span class="force-vent">de 5km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>7-12km/h SO</p><p>🌧 0.4mm/h</p></div></td>
-            <td><div class="flyable"><p>12-24km/h SSO</p><p>🌧 3.4mm/h</p></div></td>
+            <td><div class="flyable"><p>11-22km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>11-24km/h SO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>16-31km/h SSO</p><p>🌧 0.8mm/h</p></div></td>
             <td><div class="not-flyable"><p>16-33km/h SO</p><p>🌧 0.3mm/h</p></div></td>
             
@@ -62,8 +62,8 @@ page mise à jour le dimanche 02 avril 22:03
 <tr>
         <td><strong>Equihen</strong>  <br><a href="https://windy.com/50.679/1.572?50.279,1.571,8,m:e3CagdM">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">SO, O, OSO</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
         
-            <td><div class="not-flyable"><p>11-18km/h OSO</p><p>🌧 1.7mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-22km/h SO</p><p>🌧 3.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>11-18km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-31km/h SO</p><p>🌧 0.3mm/h</p></div></td>
             <td><div class="not-flyable"><p>14-37km/h OSO</p><p>🌧 1.2mm/h</p></div></td>
             <td><div class="flyable"><p>16-29km/h OSO</p><p>🌧 0.2mm/h</p></div></td>
             
