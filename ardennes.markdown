@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le samedi 08 avril 06:10
+page mise à jour le samedi 08 avril 13:10
 
 ## samedi 08 avril
 
@@ -97,9 +97,9 @@ page mise à jour le samedi 08 avril 06:10
         <td><strong>Revin</strong><br><a href="https://windy.com/49.948/4.625?49.543,4.625,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=5019">BALISE</a> </span><br> <span class="vent-favorable">SSO, S, SSE</span><br><span class="force-vent">de 5km/h jusqu'à 15km/h</span> </td>
         
             <td><div class="not-flyable"><p>14-25km/h SSE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-33km/h SSE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>22-42km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-44km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-31km/h SSE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-40km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-44km/h SSO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -142,10 +142,10 @@ page mise à jour le samedi 08 avril 06:10
 <tr>
         <td><strong>Revin</strong><br><a href="https://windy.com/49.948/4.625?49.543,4.625,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=5019">BALISE</a> </span><br> <span class="vent-favorable">SSO, S, SSE</span><br><span class="force-vent">de 5km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>20-38km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>24-48km/h O</p><p>🌧 0.3mm/h</p></div></td>
-            <td><div class="not-flyable"><p>27-61km/h O</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-57km/h O</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-33km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-46km/h OSO</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-48km/h OSO</p><p>🌧 0.8mm/h</p></div></td>
+            <td><div class="not-flyable"><p>25-50km/h SO</p><p>🌧 0.4mm/h</p></div></td>
             
         
     </tr>
@@ -168,10 +168,10 @@ page mise à jour le samedi 08 avril 06:10
 <tr>
         <td><strong>Revin</strong><br><a href="https://windy.com/49.948/4.625?49.543,4.625,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=5019">BALISE</a> </span><br> <span class="vent-favorable">SSO, S, SSE</span><br><span class="force-vent">de 5km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>25-50km/h S</p><p>🌧 0.9mm/h</p></div></td>
-            <td><div class="not-flyable"><p>33-62km/h SSO</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>27-64km/h SSO</p><p>🌧 4.1mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-57km/h ONO</p><p>🌧 4.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>31-62km/h SO</p><p>🌧 6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-66km/h ONO</p><p>🌧 2.9mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-53km/h OSO</p><p>🌧 0.8mm/h</p></div></td>
+            <td><div class="not-flyable"><p>27-64km/h O</p><p>🌧 0.6mm/h</p></div></td>
             
         
     </tr>
@@ -182,6 +182,32 @@ page mise à jour le samedi 08 avril 06:10
             <td><div class="not-flyable"><p>35-66km/h SSO</p><p>🌧 0.2mm/h</p></div></td>
             <td><div class="not-flyable"><p>29-68km/h SSO</p><p>🌧 3.5mm/h</p></div></td>
             <td><div class="not-flyable"><p>16-61km/h ONO</p><p>🌧 4.4mm/h</p></div></td>
+            
+        
+    </tr>
+
+</tbody>
+</table>
+{:/}
+## jeudi 13 avril
+
+{::nomarkdown}
+<table>
+  <tbody>
+    <tr>
+      <td>Spot</td>
+      <td>8-11h</td>
+      <td>11-14h</td>
+      <td>14-17h</td>
+      <td>17h-20h</td>
+    </tr>
+<tr>
+        <td><strong>Revin</strong><br><a href="https://windy.com/49.948/4.625?49.543,4.625,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=5019">BALISE</a> </span><br> <span class="vent-favorable">SSO, S, SSE</span><br><span class="force-vent">de 5km/h jusqu'à 15km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>16-42km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-38km/h OSO</p><p>🌧 0.6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>11-35km/h O</p><p>🌧 0.8mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-31km/h ONO</p><p>🌧 0.6mm/h</p></div></td>
             
         
     </tr>
