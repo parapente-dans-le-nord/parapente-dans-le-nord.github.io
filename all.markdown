@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le dimanche 09 avril 07:03
+page mise à jour le dimanche 09 avril 10:03
 
 ## dimanche 09 avril
 
@@ -286,10 +286,10 @@ page mise à jour le dimanche 09 avril 07:03
 <tr>
         <td><strong>Cran aux oeufs</strong><br><a href="https://windy.com/50.847/1.584?50.451,1.582,8,m:e3TagdN">WINDY</a> - <span class=""><a href="https://www.meteociel.fr/temps-reel/obs_villes.php?code2=7004">BALISE</a> </span><br> <span class="vent-favorable">OSO</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>31-44km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>31-44km/h O</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>31-42km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>37-46km/h SO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>37-48km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>37-50km/h SO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -316,10 +316,10 @@ page mise à jour le dimanche 09 avril 07:03
 <tr>
         <td><strong>Dannes</strong><br><a href="https://windy.com/50.587/1.637?50.188,1.637,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">O, OSO, SO, ONO</span><br><span class="force-vent">de 12km/h jusqu'à 20km/h</span> </td>
         
-            <td><div class="not-flyable"><p>22-46km/h O</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>25-50km/h OSO</p><p>🌧 0.3mm/h</p></div></td>
-            <td><div class="not-flyable"><p>31-57km/h OSO</p><p>🌧 1.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>27-57km/h SO</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-46km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>29-51km/h OSO</p><p>🌧 0.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>29-57km/h OSO</p><p>🌧 0.6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>25-55km/h SO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -377,9 +377,9 @@ page mise à jour le dimanche 09 avril 07:03
         <td><strong>Frencq</strong><br><a href="https://windy.com/50.559/1.669?50.159,1.670,8,m:e3qagdV">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">NE, NNE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
             <td><div class="not-flyable"><p>20-44km/h O</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>25-50km/h OSO</p><p>🌧 0.3mm/h</p></div></td>
-            <td><div class="not-flyable"><p>29-57km/h OSO</p><p>🌧 1mm/h</p></div></td>
-            <td><div class="not-flyable"><p>25-57km/h SO</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>27-51km/h OSO</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>29-57km/h OSO</p><p>🌧 0.5mm/h</p></div></td>
+            <td><div class="not-flyable"><p>25-55km/h SO</p><p>🌧 0.2mm/h</p></div></td>
             
         
     </tr>
@@ -403,9 +403,9 @@ page mise à jour le dimanche 09 avril 07:03
         <td><strong>Cran aux oeufs</strong><br><a href="https://windy.com/50.847/1.584?50.451,1.582,8,m:e3TagdN">WINDY</a> - <span class=""><a href="https://www.meteociel.fr/temps-reel/obs_villes.php?code2=7004">BALISE</a> </span><br> <span class="vent-favorable">OSO</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
             <td><div class="not-flyable"><p>33-48km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>44-62km/h OSO</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>57-75km/h OSO</p><p>🌧 0.7mm/h</p></div></td>
-            <td><div class="not-flyable"><p>62-87km/h OSO</p><p>🌧 0.6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>46-61km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>53-70km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>59-81km/h OSO</p><p>🌧 0.5mm/h</p></div></td>
             
         
     </tr>
@@ -420,22 +420,22 @@ page mise à jour le dimanche 09 avril 07:03
         
     </tr>
 <tr>
-        <td><strong>Dannes</strong><br><a href="https://windy.com/50.587/1.637?50.188,1.637,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">O, OSO, SO, ONO</span><br><span class="force-vent">de 12km/h jusqu'à 20km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>22-50km/h O</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>33-66km/h OSO</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>44-81km/h OSO</p><p>🌧 0.5mm/h</p></div></td>
-            <td><div class="not-flyable"><p>50-90km/h OSO</p><p>🌧 0.7mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
         <td><strong>Equihen</strong><br><a href="https://windy.com/50.679/1.572?50.279,1.571,8,m:e3CagdM">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">SO, O, OSO</span><br><span class="force-vent">de 15km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>27-53km/h OSO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>38-70km/h OSO</p><p>🌧 0.2mm/h</p></div></td>
             <td><div class="not-flyable"><p>50-85km/h OSO</p><p>🌧 0.6mm/h</p></div></td>
             <td><div class="not-flyable"><p>55-94km/h OSO</p><p>🌧 0.6mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
+        <td><strong>Dannes</strong><br><a href="https://windy.com/50.587/1.637?50.188,1.637,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">O, OSO, SO, ONO</span><br><span class="force-vent">de 12km/h jusqu'à 20km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>22-48km/h OSO</p><p>🌧 0.5mm/h</p></div></td>
+            <td><div class="not-flyable"><p>33-64km/h OSO</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>40-75km/h OSO</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>46-85km/h OSO</p><p>🌧 0.6mm/h</p></div></td>
             
         
     </tr>
@@ -492,10 +492,10 @@ page mise à jour le dimanche 09 avril 07:03
 <tr>
         <td><strong>Frencq</strong><br><a href="https://windy.com/50.559/1.669?50.159,1.670,8,m:e3qagdV">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">NE, NNE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>22-50km/h O</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>33-66km/h O</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>42-79km/h OSO</p><p>🌧 0.6mm/h</p></div></td>
-            <td><div class="not-flyable"><p>50-90km/h OSO</p><p>🌧 0.7mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-48km/h OSO</p><p>🌧 0.6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>31-62km/h OSO</p><p>🌧 0.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>38-75km/h OSO</p><p>🌧 0.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>44-85km/h OSO</p><p>🌧 0.6mm/h</p></div></td>
             
         
     </tr>
@@ -536,6 +536,16 @@ page mise à jour le dimanche 09 avril 07:03
         
     </tr>
 <tr>
+        <td><strong>Cran aux oeufs</strong><br><a href="https://windy.com/50.847/1.584?50.451,1.582,8,m:e3TagdN">WINDY</a> - <span class=""><a href="https://www.meteociel.fr/temps-reel/obs_villes.php?code2=7004">BALISE</a> </span><br> <span class="vent-favorable">OSO</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>40-55km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>40-53km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>40-53km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>35-51km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
         <td><strong>Hornu</strong><br><a href="https://windy.com/50.424/3.819?50.024,3.818,8,m:e3daghw">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=5040">BALISE</a> </span><br> <span class="vent-favorable">OSO, ONO, O</span><br><span class="force-vent">de 10km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>20-42km/h OSO</p><p>🌞 0mm/h</p></div></td>
@@ -546,22 +556,12 @@ page mise à jour le dimanche 09 avril 07:03
         
     </tr>
 <tr>
-        <td><strong>Cran aux oeufs</strong><br><a href="https://windy.com/50.847/1.584?50.451,1.582,8,m:e3TagdN">WINDY</a> - <span class=""><a href="https://www.meteociel.fr/temps-reel/obs_villes.php?code2=7004">BALISE</a> </span><br> <span class="vent-favorable">OSO</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>37-51km/h O</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>33-48km/h O</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>38-50km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>40-53km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
         <td><strong>Dannes</strong><br><a href="https://windy.com/50.587/1.637?50.188,1.637,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">O, OSO, SO, ONO</span><br><span class="force-vent">de 12km/h jusqu'à 20km/h</span> </td>
         
-            <td><div class="not-flyable"><p>24-46km/h O</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>27-50km/h O</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>29-55km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>33-61km/h OSO</p><p>🌧 0.5mm/h</p></div></td>
+            <td><div class="not-flyable"><p>29-55km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>31-57km/h O</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>29-57km/h OSO</p><p>🌧 0.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-59km/h OSO</p><p>🌧 1.8mm/h</p></div></td>
             
         
     </tr>
@@ -628,10 +628,56 @@ page mise à jour le dimanche 09 avril 07:03
 <tr>
         <td><strong>Frencq</strong><br><a href="https://windy.com/50.559/1.669?50.159,1.670,8,m:e3qagdV">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">NE, NNE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>22-44km/h O</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>25-50km/h O</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>27-53km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>31-59km/h OSO</p><p>🌧 0.5mm/h</p></div></td>
+            <td><div class="not-flyable"><p>27-51km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>29-57km/h O</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>29-57km/h OSO</p><p>🌧 0.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-57km/h OSO</p><p>🌧 2mm/h</p></div></td>
+            
+        
+    </tr>
+
+</tbody>
+</table>
+{:/}
+## vendredi 14 avril
+
+{::nomarkdown}
+<table>
+  <tbody>
+    <tr>
+      <td>Spot</td>
+      <td>8-11h</td>
+      <td>11-14h</td>
+      <td>14-17h</td>
+      <td>17h-20h</td>
+    </tr>
+<tr>
+        <td><strong>Frencq</strong><br><a href="https://windy.com/50.559/1.669?50.159,1.670,8,m:e3qagdV">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">NE, NNE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>12-24km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-33km/h SE</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-44km/h SE</p><p>🌧 4.8mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-50km/h ESE</p><p>🌧 2.5mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
+        <td><strong>Cran aux oeufs</strong><br><a href="https://windy.com/50.847/1.584?50.451,1.582,8,m:e3TagdN">WINDY</a> - <span class=""><a href="https://www.meteociel.fr/temps-reel/obs_villes.php?code2=7004">BALISE</a> </span><br> <span class="vent-favorable">OSO</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>20-27km/h SSE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-33km/h SSE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>25-37km/h ESE</p><p>🌧 2.6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>31-42km/h ESE</p><p>🌧 2.5mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
+        <td><strong>Dannes</strong><br><a href="https://windy.com/50.587/1.637?50.188,1.637,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">O, OSO, SO, ONO</span><br><span class="force-vent">de 12km/h jusqu'à 20km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>14-25km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-33km/h SE</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-44km/h SE</p><p>🌧 4.5mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-50km/h ESE</p><p>🌧 2.5mm/h</p></div></td>
             
         
     </tr>
