@@ -7,60 +7,8 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le mardi 11 avril 22:16
+page mise à jour le mercredi 12 avril 06:16
 
-## mardi 11 avril
-
-{::nomarkdown}
-<table>
-  <tbody>
-    <tr>
-      <td>Spot</td>
-      <td>8-11h</td>
-      <td>11-14h</td>
-      <td>14-17h</td>
-      <td>17h-20h</td>
-    </tr>
-<tr>
-        <td><strong>waga</strong><br><a href="https://windy.com/47.903/6.996?47.900,6.983,15">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">ONO, O, OSO</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-27km/h O</p><p>🌞 0mm/h</p></div></td> 
-        
-    </tr>
-<tr>
-        <td><strong>Markstein le Treh</strong><br><a href="https://windy.com/47.926/7.012?47.505,7.012,8,m:eY1agmQ">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=136">BALISE</a> </span><br> <span class="vent-favorable">S, SSO, SO, OSO, O, ONO, NO</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-35km/h OSO</p><p>🌞 0mm/h</p></div></td> 
-        
-    </tr>
-<tr>
-        <td><strong>Drumont</strong><br><a href="https://windy.com/47.898/6.919?47.687,6.919,9,m:eYYagmG">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">NE, ENE, E</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-35km/h O</p><p>🌞 0mm/h</p></div></td> 
-        
-    </tr>
-<tr>
-        <td><strong>Gustiberg</strong><br><a href="https://windy.com/47.894/6.934?47.891,6.934,15,m:eYYagmI">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">S, SSE, SE</span><br><span class="force-vent">de 0km/h jusqu'à 20km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-31km/h OSO</p><p>🌞 0mm/h</p></div></td> 
-        
-    </tr>
-
-</tbody>
-</table>
-{:/}
 ## mercredi 12 avril
 
 {::nomarkdown}
