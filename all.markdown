@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le mercredi 19 avril 10:03
+page mise à jour le mercredi 19 avril 13:03
 
 ## mercredi 19 avril
 
@@ -106,7 +106,7 @@ page mise à jour le mercredi 19 avril 10:03
         
             <td><div class="not-flyable"><p>22-37km/h E</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>18-31km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>29-46km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>29-44km/h NE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>35-55km/h NE</p><p>🌞 0mm/h</p></div></td>
             
         
@@ -230,7 +230,7 @@ page mise à jour le mercredi 19 avril 10:03
 <tr>
         <td><strong>Wissant</strong><br><a href="https://windy.com/50.885/1.653?50.488,1.653,8,m:e3XagdU">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">ONO, NO, NNO</span><br><span class="force-vent">de 20km/h jusqu'à 30km/h</span> </td>
         
-            <td><div class="not-flyable"><p>25-38km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-37km/h NE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>37-57km/h NNE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>33-61km/h NE</p><p>🌧 0.6mm/h</p></div></td>
             <td><div class="not-flyable"><p>31-48km/h NE</p><p>🌧 0.4mm/h</p></div></td>
@@ -349,7 +349,7 @@ page mise à jour le mercredi 19 avril 10:03
             <td><div class="not-flyable"><p>16-35km/h E</p><p>🌧 2.2mm/h</p></div></td>
             <td><div class="not-flyable"><p>14-31km/h SE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>14-24km/h SE</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-22km/h SSE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-20km/h SSE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -473,7 +473,7 @@ page mise à jour le mercredi 19 avril 10:03
         <td><strong>Wissant</strong><br><a href="https://windy.com/50.885/1.653?50.488,1.653,8,m:e3XagdU">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">ONO, NO, NNO</span><br><span class="force-vent">de 20km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>3-11km/h SSE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>0-9km/h E</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>0-9km/h ESE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>11-16km/h OSO</p><p>🌧 0.3mm/h</p></div></td>
             <td><div class="not-flyable"><p>18-27km/h SO</p><p>🌞 0mm/h</p></div></td>
             
@@ -588,9 +588,9 @@ page mise à jour le mercredi 19 avril 10:03
 <tr>
         <td><strong>Wissant</strong><br><a href="https://windy.com/50.885/1.653?50.488,1.653,8,m:e3XagdU">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">ONO, NO, NNO</span><br><span class="force-vent">de 20km/h jusqu'à 30km/h</span> </td>
         
-            <td><div class="not-flyable"><p>33-48km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>37-59km/h OSO</p><p>🌧 1mm/h</p></div></td>
-            <td><div class="not-flyable"><p>27-53km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>33-46km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>37-57km/h OSO</p><p>🌧 1mm/h</p></div></td>
+            <td><div class="not-flyable"><p>29-53km/h OSO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>22-42km/h O</p><p>🌧 0.2mm/h</p></div></td>
             
         
@@ -667,7 +667,7 @@ page mise à jour le mercredi 19 avril 10:03
             <td><div class="not-flyable"><p>18-31km/h ONO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>20-40km/h NNE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>12-29km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-25km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-24km/h NNE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
