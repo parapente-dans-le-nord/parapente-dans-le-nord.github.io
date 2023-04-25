@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le mardi 25 avril 10:03
+page mise à jour le mardi 25 avril 13:03
 
 ## mardi 25 avril
 
@@ -274,6 +274,16 @@ page mise à jour le mardi 25 avril 10:03
       <td>17h-20h</td>
     </tr>
 <tr>
+        <td><strong>Licques</strong><br><a href="https://windy.com/50.786/1.936?50.388,1.934,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">S, SSE, SE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
+        
+            <td><div class="flyable"><p>14-25km/h SE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-31km/h ESE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-37km/h SE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-35km/h SE</p><p>🌧 0.2mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
         <td><strong>La Comté</strong><br><a href="https://windy.com/50.426/2.500?50.025,2.499,8">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise.php?idBalise=">BALISE</a> </span><br> <span class="vent-favorable">O, ONO, NO</span><br><span class="force-vent">de 6km/h jusqu'à 25km/h</span> </td>
         
             <td><div class="not-flyable"><p>12-20km/h ESE</p><p>🌞 0mm/h</p></div></td>
@@ -360,16 +370,6 @@ page mise à jour le mardi 25 avril 10:03
             <td><div class="not-flyable"><p>16-31km/h ESE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>18-35km/h ESE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>14-37km/h ESE</p><p>🌧 0.2mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
-        <td><strong>Licques</strong><br><a href="https://windy.com/50.786/1.936?50.388,1.934,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">S, SSE, SE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>12-27km/h ESE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-27km/h ESE</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-27km/h SE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-22km/h SO</p><p>🌧 0.4mm/h</p></div></td>
             
         
     </tr>
@@ -492,10 +492,10 @@ page mise à jour le mardi 25 avril 10:03
 <tr>
         <td><strong>Licques</strong><br><a href="https://windy.com/50.786/1.936?50.388,1.934,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">S, SSE, SE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>20-38km/h OSO</p><p>🌧 0.6mm/h</p></div></td>
-            <td><div class="not-flyable"><p>31-57km/h OSO</p><p>🌧 0.4mm/h</p></div></td>
-            <td><div class="not-flyable"><p>27-55km/h OSO</p><p>🌧 0.6mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-51km/h O</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>29-57km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>33-64km/h OSO</p><p>🌧 0.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>29-62km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-55km/h NO</p><p>🌧 0.8mm/h</p></div></td>
             
         
     </tr>
@@ -546,6 +546,16 @@ page mise à jour le mardi 25 avril 10:03
         
     </tr>
 <tr>
+        <td><strong>Licques</strong><br><a href="https://windy.com/50.786/1.936?50.388,1.934,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">S, SSE, SE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>7-11km/h SSE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-14km/h SE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-16km/h E</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>1-14km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
         <td><strong>Dannes</strong><br><a href="https://windy.com/50.587/1.637?50.188,1.637,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">O, OSO, SO, ONO</span><br><span class="force-vent">de 12km/h jusqu'à 20km/h</span> </td>
         
             <td><div class="not-flyable"><p>9-16km/h SE</p><p>🌞 0mm/h</p></div></td>
@@ -562,16 +572,6 @@ page mise à jour le mardi 25 avril 10:03
             <td><div class="not-flyable"><p>5-14km/h ESE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>5-16km/h NE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>5-16km/h NE</p><p>🌞 0mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
-        <td><strong>Licques</strong><br><a href="https://windy.com/50.786/1.936?50.388,1.934,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">S, SSE, SE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>11-20km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-24km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-25km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-29km/h NE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -738,6 +738,16 @@ page mise à jour le mardi 25 avril 10:03
             <td><div class="not-flyable"><p>9-20km/h ONO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>9-24km/h O</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>12-27km/h O</p><p>🌞 0mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
+        <td><strong>Licques</strong><br><a href="https://windy.com/50.786/1.936?50.388,1.934,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">S, SSE, SE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>3-7km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-16km/h ONO</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-18km/h ONO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-22km/h ONO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
