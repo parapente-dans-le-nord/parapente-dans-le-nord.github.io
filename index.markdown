@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le vendredi 28 avril 13:03
+page mise à jour le vendredi 28 avril 17:03
 
 
 
@@ -26,11 +26,10 @@ page mise à jour le vendredi 28 avril 13:03
 <tr>
         <td><strong>Hornu</strong>  <br><a href="https://windy.com/50.424/3.819?50.024,3.818,8,m:e3daghw">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=5040">BALISE</a> </span><br> <span class="vent-favorable">OSO, ONO, O</span><br><span class="force-vent">de 10km/h jusqu'à 30km/h</span> </td>
         
-            <td><div class="flyable"><p>12-27km/h OSO</p><p>🌧 1.7mm/h</p></div></td>
-            <td><div class="flyable"><p>14-27km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-38km/h O</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-38km/h O</p><p>🌞 0mm/h</p></div></td>
-            
+            <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
+            <td><div class="flyable"><p>11-25km/h O</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>20-38km/h O</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>20-40km/h O</p><p>🌞 0mm/h</p></div></td> 
         
     </tr>
 
