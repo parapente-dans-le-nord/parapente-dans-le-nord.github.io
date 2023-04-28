@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le vendredi 28 avril 19:03
+page mise à jour le vendredi 28 avril 22:03
 
 
 
@@ -37,7 +37,7 @@ page mise à jour le vendredi 28 avril 19:03
 </tbody>
 </table>
 {:/}
-## mardi 02 mai
+## lundi 01 mai
 
 {::nomarkdown}
 <table>
@@ -52,10 +52,10 @@ page mise à jour le vendredi 28 avril 19:03
 <tr>
         <td><strong>La Comté</strong>  <br><a href="https://windy.com/50.426/2.500?50.025,2.499,8">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise.php?idBalise=">BALISE</a> </span><br> <span class="vent-favorable">O, ONO, NO</span><br><span class="force-vent">de 6km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="flyable"><p>9-18km/h NO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-25km/h NNO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-27km/h N</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-37km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-11km/h N</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>9-20km/h NO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-24km/h NNO</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-35km/h NO</p><p>🌧 1mm/h</p></div></td>
             
         
     </tr>
