@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le vendredi 28 avril 22:03
+page mise à jour le samedi 29 avril 07:03
 
 
 
@@ -26,10 +26,10 @@ page mise à jour le vendredi 28 avril 22:03
 <tr>
         <td><strong>Frencq</strong>  <br><a href="https://windy.com/50.559/1.669?50.159,1.670,8,m:e3qagdV">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">NE, NNE</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>7-16km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-14km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>11-18km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-18km/h NNE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>9-18km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>11-22km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>11-22km/h E</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -52,10 +52,10 @@ page mise à jour le vendredi 28 avril 22:03
 <tr>
         <td><strong>La Comté</strong>  <br><a href="https://windy.com/50.426/2.500?50.025,2.499,8">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise.php?idBalise=">BALISE</a> </span><br> <span class="vent-favorable">O, ONO, NO</span><br><span class="force-vent">de 6km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>5-11km/h N</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>9-20km/h NO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-24km/h NNO</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-35km/h NO</p><p>🌧 1mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-9km/h NNO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-18km/h NNO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>12-25km/h NO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-31km/h NO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
