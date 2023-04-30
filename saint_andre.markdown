@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le dimanche 30 avril 13:36
+page mise à jour le dimanche 30 avril 17:36
 
 ## dimanche 30 avril
 
@@ -142,10 +142,10 @@ page mise à jour le dimanche 30 avril 13:36
 <tr>
         <td><strong>Clumanc</strong><br><a href="https://windy.com/44.027/6.402?43.914,6.403,10,m:eSxaglP">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">O, OSO, ONO</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>3-12km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>7-22km/h O</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>7-27km/h ONO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>7-27km/h NO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-14km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-22km/h ONO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-24km/h NO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-25km/h ONO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -162,9 +162,9 @@ page mise à jour le dimanche 30 avril 13:36
 <tr>
         <td><strong>Cousson</strong><br><a href="https://windy.com/44.054/6.240?43.940,6.241,10,m:eSAaglz">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">SO</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>3-18km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>7-22km/h NO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-29km/h ONO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-16km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-25km/h NO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-27km/h ONO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>12-33km/h ONO</p><p>🌞 0mm/h</p></div></td>
             
         
@@ -188,10 +188,10 @@ page mise à jour le dimanche 30 avril 13:36
 <tr>
         <td><strong>Clumanc</strong><br><a href="https://windy.com/44.027/6.402?43.914,6.403,10,m:eSxaglP">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">O, OSO, ONO</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>3-16km/h N</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-31km/h ONO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-33km/h ONO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-35km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>1-12km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-27km/h ONO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-31km/h ONO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>11-35km/h OSO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -208,10 +208,10 @@ page mise à jour le dimanche 30 avril 13:36
 <tr>
         <td><strong>Cousson</strong><br><a href="https://windy.com/44.054/6.240?43.940,6.241,10,m:eSAaglz">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">SO</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>3-16km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>7-22km/h O</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>7-27km/h O</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-27km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-14km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-20km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-25km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-38km/h SO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
