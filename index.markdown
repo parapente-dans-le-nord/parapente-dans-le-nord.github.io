@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le dimanche 30 avril 19:03
+page mise à jour le dimanche 30 avril 22:03
 
 
 
@@ -50,32 +50,6 @@ page mise à jour le dimanche 30 avril 19:03
             <td><div class="flyable"><p>16-25km/h O</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>14-27km/h OSO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>24-38km/h O</p><p>🌞 0mm/h</p></div></td>
-            
-        
-    </tr>
-
-</tbody>
-</table>
-{:/}
-## vendredi 05 mai
-
-{::nomarkdown}
-<table>
-  <tbody>
-    <tr>
-      <td>Spot</td>
-      <td>8-11h</td>
-      <td>11-14h</td>
-      <td>14-17h</td>
-      <td>17h-20h</td>
-    </tr>
-<tr>
-        <td><strong>Mont Clairon</strong>  <br><a href="https://windy.com/49.919/2.729?49.515,2.730,8,m:e2magfH">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">SO</span><br><span class="force-vent">de 12km/h jusqu'à 25km/h</span> </td>
-        
-            <td><div class="flyable"><p>16-25km/h SO</p><p>🌧 0.5mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-35km/h SO</p><p>🌧 0.5mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-35km/h SO</p><p>🌧 2.4mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-33km/h OSO</p><p>🌧 4.5mm/h</p></div></td>
             
         
     </tr>
