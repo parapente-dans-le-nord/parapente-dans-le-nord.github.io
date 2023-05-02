@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le mardi 02 mai 13:46
+page mise à jour le mardi 02 mai 17:46
 
 ## mardi 02 mai
 
@@ -140,32 +140,32 @@ page mise à jour le mardi 02 mai 13:46
         
     </tr>
 <tr>
-        <td><strong>Dielette/Ecalgrain/Vauville/Carteret</strong><br><a href="https://windy.com/49.650/-1.856?49.243,-1.856,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=81">BALISE</a> </span><br> <span class="vent-favorable">O, OSO, SO, SSO, S, ONO, NO</span><br><span class="force-vent">de 15km/h jusqu'à 25km/h</span> </td>
+        <td><strong>Commes</strong><br><a href="https://windy.com/49.346/-0.726?48.936,-0.726,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=158">BALISE</a> </span><br> <span class="vent-favorable">N, NNE, NE, NNO</span><br><span class="force-vent">de 15km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>20-33km/h ESE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>22-33km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-33km/h SO</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-31km/h SO</p><p>🌧 0.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-27km/h ESE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>11-25km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-37km/h OSO</p><p>🌧 0.8mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-38km/h OSO</p><p>🌧 1.8mm/h</p></div></td>
             
         
     </tr>
 <tr>
-        <td><strong>Commes</strong><br><a href="https://windy.com/49.346/-0.726?48.936,-0.726,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=158">BALISE</a> </span><br> <span class="vent-favorable">N, NNE, NE, NNO</span><br><span class="force-vent">de 15km/h jusqu'à 25km/h</span> </td>
+        <td><strong>Dielette/Ecalgrain/Vauville/Carteret</strong><br><a href="https://windy.com/49.650/-1.856?49.243,-1.856,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=81">BALISE</a> </span><br> <span class="vent-favorable">O, OSO, SO, SSO, S, ONO, NO</span><br><span class="force-vent">de 15km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>18-29km/h ESE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-29km/h S</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-35km/h OSO</p><p>🌧 1.4mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-33km/h SO</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-31km/h ESE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-31km/h S</p><p>🌧 0.8mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-33km/h SO</p><p>🌧 0.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-29km/h SO</p><p>🌧 0.5mm/h</p></div></td>
             
         
     </tr>
 <tr>
         <td><strong>Roche a bunel</strong><br><a href="https://windy.com/48.993/-0.499?48.580,-0.499,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">E, ESE</span><br><span class="force-vent">de 5km/h jusqu'à 20km/h</span> </td>
         
-            <td><div class="not-flyable"><p>12-25km/h SE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-33km/h S</p><p>🌧 0.9mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-44km/h SO</p><p>🌧 0.9mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-42km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-24km/h SSE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-27km/h S</p><p>🌧 0.6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-46km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-46km/h SO</p><p>🌧 0.2mm/h</p></div></td>
             
         
     </tr>
@@ -186,22 +186,22 @@ page mise à jour le mardi 02 mai 13:46
       <td>17h-20h</td>
     </tr>
 <tr>
-        <td><strong>Commes</strong><br><a href="https://windy.com/49.346/-0.726?48.936,-0.726,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=158">BALISE</a> </span><br> <span class="vent-favorable">N, NNE, NE, NNO</span><br><span class="force-vent">de 15km/h jusqu'à 25km/h</span> </td>
+        <td><strong>Dielette/Ecalgrain/Vauville/Carteret</strong><br><a href="https://windy.com/49.650/-1.856?49.243,-1.856,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=81">BALISE</a> </span><br> <span class="vent-favorable">O, OSO, SO, SSO, S, ONO, NO</span><br><span class="force-vent">de 15km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>20-31km/h SSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>22-38km/h SO</p><p>🌧 0.4mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-38km/h SO</p><p>🌧 1.8mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-33km/h OSO</p><p>🌧 2.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-35km/h SO</p><p>🌧 0.7mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-37km/h SO</p><p>🌧 1.7mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-38km/h SO</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-31km/h OSO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
 <tr>
-        <td><strong>Roche a bunel</strong><br><a href="https://windy.com/48.993/-0.499?48.580,-0.499,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">E, ESE</span><br><span class="force-vent">de 5km/h jusqu'à 20km/h</span> </td>
+        <td><strong>Commes</strong><br><a href="https://windy.com/49.346/-0.726?48.936,-0.726,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=158">BALISE</a> </span><br> <span class="vent-favorable">N, NNE, NE, NNO</span><br><span class="force-vent">de 15km/h jusqu'à 25km/h</span> </td>
         
             <td><div class="not-flyable"><p>18-35km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-42km/h SO</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-42km/h SO</p><p>🌧 0.7mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-42km/h SO</p><p>🌧 0.5mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-38km/h SO</p><p>🌧 1.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-37km/h SO</p><p>🌧 3.5mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-35km/h SO</p><p>🌧 0.5mm/h</p></div></td>
             
         
     </tr>
@@ -216,12 +216,12 @@ page mise à jour le mardi 02 mai 13:46
         
     </tr>
 <tr>
-        <td><strong>Dielette/Ecalgrain/Vauville/Carteret</strong><br><a href="https://windy.com/49.650/-1.856?49.243,-1.856,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=81">BALISE</a> </span><br> <span class="vent-favorable">O, OSO, SO, SSO, S, ONO, NO</span><br><span class="force-vent">de 15km/h jusqu'à 25km/h</span> </td>
+        <td><strong>Roche a bunel</strong><br><a href="https://windy.com/48.993/-0.499?48.580,-0.499,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">E, ESE</span><br><span class="force-vent">de 5km/h jusqu'à 20km/h</span> </td>
         
-            <td><div class="not-flyable"><p>24-37km/h SO</p><p>🌧 0.4mm/h</p></div></td>
-            <td><div class="not-flyable"><p>25-38km/h SO</p><p>🌧 1.7mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-38km/h SO</p><p>🌧 1.7mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-31km/h SO</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-37km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-44km/h SO</p><p>🌧 0.6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-44km/h SO</p><p>🌧 2.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-40km/h OSO</p><p>🌧 3.7mm/h</p></div></td>
             
         
     </tr>
