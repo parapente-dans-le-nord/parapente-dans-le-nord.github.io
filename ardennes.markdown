@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le lundi 08 mai 13:10
+page mise à jour le lundi 08 mai 17:10
 
 ## lundi 08 mai
 
@@ -104,10 +104,10 @@ page mise à jour le lundi 08 mai 13:10
 <tr>
         <td><strong>Revin</strong><br><a href="https://windy.com/49.948/4.625?49.543,4.625,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=5019">BALISE</a> </span><br> <span class="vent-favorable">SSO, S, SSE</span><br><span class="force-vent">de 5km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>24-44km/h SO</p><p>🌧 0.4mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-51km/h OSO</p><p>🌧 0.9mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-50km/h OSO</p><p>🌧 2.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-44km/h O</p><p>🌧 1.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-44km/h SO</p><p>🌧 0.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-46km/h OSO</p><p>🌧 0.8mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-46km/h O</p><p>🌧 1.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-42km/h OSO</p><p>🌧 0.5mm/h</p></div></td>
             
         
     </tr>
@@ -130,10 +130,10 @@ page mise à jour le lundi 08 mai 13:10
 <tr>
         <td><strong>Revin</strong><br><a href="https://windy.com/49.948/4.625?49.543,4.625,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=5019">BALISE</a> </span><br> <span class="vent-favorable">SSO, S, SSE</span><br><span class="force-vent">de 5km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>7-16km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-24km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-25km/h SO</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>7-24km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-14km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-24km/h SO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-24km/h SO</p><p>🌧 0.5mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-22km/h SO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
