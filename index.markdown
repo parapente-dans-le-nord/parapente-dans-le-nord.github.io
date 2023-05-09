@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le mardi 09 mai 19:03
+page mise à jour le mardi 09 mai 22:03
 
 
 
@@ -83,9 +83,9 @@ page mise à jour le mardi 09 mai 19:03
         <td><strong>Cran aux oeufs</strong>  <br><a href="https://windy.com/50.847/1.584?50.451,1.582,8,m:e3TagdN">WINDY</a> - <span class=""><a href="https://www.meteociel.fr/temps-reel/obs_villes.php?code2=7004">BALISE</a> </span><br> <span class="vent-favorable">OSO</span><br><span class="force-vent">de 10km/h jusqu'à 25km/h</span> </td>
         
             <td><div class="not-flyable"><p>12-22km/h O</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>12-20km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>18-24km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>14-24km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>12-16km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>16-22km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-22km/h O</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -93,9 +93,9 @@ page mise à jour le mardi 09 mai 19:03
         <td><strong>Dannes</strong>  <br><a href="https://windy.com/50.587/1.637?50.188,1.637,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">O, OSO, SO, ONO</span><br><span class="force-vent">de 12km/h jusqu'à 20km/h</span> </td>
         
             <td><div class="flyable"><p>12-20km/h O</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-29km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-33km/h O</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-31km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-27km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-31km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-33km/h O</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -104,8 +104,8 @@ page mise à jour le mardi 09 mai 19:03
         
             <td><div class="not-flyable"><p>11-20km/h OSO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>12-29km/h O</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-27km/h OSO</p><p>🌧 0.3mm/h</p></div></td>
-            <td><div class="flyable"><p>9-22km/h ONO</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>11-27km/h ONO</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="flyable"><p>9-24km/h ONO</p><p>🌧 0.2mm/h</p></div></td>
             
         
     </tr>
