@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le jeudi 11 mai 19:03
+page mise à jour le jeudi 11 mai 22:03
 
 ## jeudi 11 mai
 
@@ -108,7 +108,7 @@ page mise à jour le jeudi 11 mai 19:03
             <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>0-0km/h NA</p><p>🌧️ 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-25km/h OSO</p><p>🌞 0mm/h</p></div></td> 
+            <td><div class="not-flyable"><p>14-27km/h OSO</p><p>🌞 0mm/h</p></div></td> 
         
     </tr>
 <tr>
@@ -219,10 +219,10 @@ page mise à jour le jeudi 11 mai 19:03
 <tr>
         <td><strong>Wissant</strong><br><a href="https://windy.com/50.885/1.653?50.488,1.653,8,m:e3XagdU">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">ONO, NO, NNO</span><br><span class="force-vent">de 20km/h jusqu'à 30km/h</span> </td>
         
-            <td><div class="not-flyable"><p>31-38km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>40-50km/h N</p><p>🌧 0.4mm/h</p></div></td>
-            <td><div class="not-flyable"><p>37-46km/h N</p><p>🌧 2.8mm/h</p></div></td>
-            <td><div class="not-flyable"><p>25-38km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>27-38km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>35-50km/h N</p><p>🌧 0.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>31-46km/h N</p><p>🌧 2.7mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-37km/h NE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -273,22 +273,22 @@ page mise à jour le jeudi 11 mai 19:03
         
     </tr>
 <tr>
+        <td><strong>Wissant</strong><br><a href="https://windy.com/50.885/1.653?50.488,1.653,8,m:e3XagdU">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">ONO, NO, NNO</span><br><span class="force-vent">de 20km/h jusqu'à 30km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>25-40km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>25-38km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>27-40km/h N</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>25-40km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
         <td><strong>Hornu</strong><br><a href="https://windy.com/50.424/3.819?50.024,3.818,8,m:e3daghw">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=5040">BALISE</a> </span><br> <span class="vent-favorable">OSO, ONO, O</span><br><span class="force-vent">de 10km/h jusqu'à 30km/h</span> </td>
         
             <td><div class="not-flyable"><p>1-7km/h N</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>12-25km/h NNE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>18-37km/h NNE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>20-38km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
-        <td><strong>Wissant</strong><br><a href="https://windy.com/50.885/1.653?50.488,1.653,8,m:e3XagdU">WINDY</a> - <span class=""><a href="https://balisemeteo.com/balise_histo.php?idBalise=159">BALISE</a> </span><br> <span class="vent-favorable">ONO, NO, NNO</span><br><span class="force-vent">de 20km/h jusqu'à 30km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>31-42km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>25-38km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>27-40km/h N</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>27-40km/h NNE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -424,7 +424,7 @@ page mise à jour le jeudi 11 mai 19:03
             <td><div class="not-flyable"><p>18-29km/h N</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>12-27km/h N</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>9-20km/h NO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-16km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-18km/h OSO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -549,7 +549,7 @@ page mise à jour le jeudi 11 mai 19:03
         
             <td><div class="not-flyable"><p>11-18km/h ONO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>22-31km/h NNO</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>25-37km/h N</p><p>🌧 1.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>25-38km/h NNO</p><p>🌧 1.3mm/h</p></div></td>
             <td><div class="not-flyable"><p>18-38km/h N</p><p>🌞 0mm/h</p></div></td>
             
         
@@ -666,7 +666,7 @@ page mise à jour le jeudi 11 mai 19:03
             <td><div class="not-flyable"><p>18-29km/h NO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>18-33km/h NO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>18-31km/h NO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-29km/h ONO</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>11-29km/h ONO</p><p>🌧 0.2mm/h</p></div></td>
             
         
     </tr>
