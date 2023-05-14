@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le dimanche 14 mai 13:46
+page mise à jour le dimanche 14 mai 17:46
 
 ## dimanche 14 mai
 
@@ -142,30 +142,30 @@ page mise à jour le dimanche 14 mai 13:46
 <tr>
         <td><strong>Dielette/Ecalgrain/Vauville/Carteret</strong><br><a href="https://windy.com/49.650/-1.856?49.243,-1.856,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=81">BALISE</a> </span><br> <span class="vent-favorable">O, OSO, SO, SSO, S, ONO, NO</span><br><span class="force-vent">de 15km/h jusqu'à 25km/h</span> </td>
         
-            <td><div class="not-flyable"><p>16-24km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-27km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-27km/h N</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-25km/h NNO</p><p>🌞 0mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
-        <td><strong>Roche a bunel</strong><br><a href="https://windy.com/48.993/-0.499?48.580,-0.499,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">E, ESE</span><br><span class="force-vent">de 5km/h jusqu'à 20km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>11-20km/h N</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-37km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-38km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-38km/h N</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-25km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-29km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-29km/h N</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-29km/h NNO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
 <tr>
         <td><strong>Clecy</strong><br><a href="https://windy.com/48.929/-0.470?48.516,-0.470,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=122">BALISE</a> </span><br> <span class="vent-favorable">S, O, SSO, OSO, ONO</span><br><span class="force-vent">de 5km/h jusqu'à 20km/h</span> </td>
         
-            <td><div class="not-flyable"><p>9-18km/h N</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-37km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>11-20km/h N</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>18-38km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-38km/h N</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-40km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-40km/h N</p><p>🌞 0mm/h</p></div></td>
+            
+        
+    </tr>
+<tr>
+        <td><strong>Roche a bunel</strong><br><a href="https://windy.com/48.993/-0.499?48.580,-0.499,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">E, ESE</span><br><span class="force-vent">de 5km/h jusqu'à 20km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>11-22km/h N</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-38km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-40km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-40km/h N</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -199,29 +199,29 @@ page mise à jour le dimanche 14 mai 13:46
         <td><strong>Dielette/Ecalgrain/Vauville/Carteret</strong><br><a href="https://windy.com/49.650/-1.856?49.243,-1.856,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=81">BALISE</a> </span><br> <span class="vent-favorable">O, OSO, SO, SSO, S, ONO, NO</span><br><span class="force-vent">de 15km/h jusqu'à 25km/h</span> </td>
         
             <td><div class="not-flyable"><p>14-22km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-25km/h NE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>16-25km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-24km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-25km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-24km/h NNE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
 <tr>
         <td><strong>Clecy</strong><br><a href="https://windy.com/48.929/-0.470?48.516,-0.470,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=122">BALISE</a> </span><br> <span class="vent-favorable">S, O, SSO, OSO, ONO</span><br><span class="force-vent">de 5km/h jusqu'à 20km/h</span> </td>
         
-            <td><div class="not-flyable"><p>11-20km/h N</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-18km/h NNE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>12-29km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-35km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-35km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-33km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-40km/h NNE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
 <tr>
         <td><strong>Roche a bunel</strong><br><a href="https://windy.com/48.993/-0.499?48.580,-0.499,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">E, ESE</span><br><span class="force-vent">de 5km/h jusqu'à 20km/h</span> </td>
         
-            <td><div class="not-flyable"><p>11-20km/h N</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-29km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-35km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-37km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-18km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-27km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-33km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-40km/h NNE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
