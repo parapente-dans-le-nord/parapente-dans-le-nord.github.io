@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le lundi 15 mai 13:20
+page mise à jour le lundi 15 mai 17:20
 
 ## lundi 15 mai
 
@@ -96,8 +96,8 @@ page mise à jour le lundi 15 mai 13:20
         
             <td><div class="not-flyable"><p>18-42km/h NE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>29-61km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>29-61km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>25-61km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>29-64km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>27-64km/h NE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -106,8 +106,8 @@ page mise à jour le lundi 15 mai 13:20
         
             <td><div class="not-flyable"><p>22-50km/h NNE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>27-59km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>29-64km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>29-64km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>29-66km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>27-64km/h NNE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -130,10 +130,10 @@ page mise à jour le lundi 15 mai 13:20
 <tr>
         <td><strong>Mont Myon</strong><br><a href="https://windy.com/46.331/5.397?45.898,5.394,8,m:eWoagj8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=70">BALISE</a> </span><br> <span class="vent-favorable">SO, OSO, O, ONO, NO</span><br><span class="force-vent">de 0km/h jusqu'à 20km/h</span> </td>
         
-            <td><div class="not-flyable"><p>11-27km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-27km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-25km/h NNO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-44km/h N</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-18km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-20km/h NNO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-22km/h NNO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-29km/h N</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -141,9 +141,9 @@ page mise à jour le lundi 15 mai 13:20
         <td><strong>Mont Poupet</strong><br><a href="https://windy.com/46.970/5.876?46.541,5.876,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=92">BALISE</a> </span><br> <span class="vent-favorable">N, NNO, NO, ONO, O, OSO, SSO, SO, S, NNE, NE</span><br><span class="force-vent">de 0km/h jusqu'à 20km/h</span> </td>
         
             <td><div class="not-flyable"><p>16-38km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>22-46km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>22-48km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-48km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-40km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-44km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-46km/h NE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
