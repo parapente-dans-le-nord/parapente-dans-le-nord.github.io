@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le mardi 16 mai 13:10
+page mise à jour le mardi 16 mai 17:10
 
 ## mardi 16 mai
 
@@ -105,9 +105,9 @@ page mise à jour le mardi 16 mai 13:10
         <td><strong>Revin</strong><br><a href="https://windy.com/49.948/4.625?49.543,4.625,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=5019">BALISE</a> </span><br> <span class="vent-favorable">SSO, S, SSE</span><br><span class="force-vent">de 5km/h jusqu'à 15km/h</span> </td>
         
             <td><div class="not-flyable"><p>11-22km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-33km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-35km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-35km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-35km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-37km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-33km/h NE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -131,9 +131,9 @@ page mise à jour le mardi 16 mai 13:10
         <td><strong>Revin</strong><br><a href="https://windy.com/49.948/4.625?49.543,4.625,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=5019">BALISE</a> </span><br> <span class="vent-favorable">SSO, S, SSE</span><br><span class="force-vent">de 5km/h jusqu'à 15km/h</span> </td>
         
             <td><div class="not-flyable"><p>12-25km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-31km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-37km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-31km/h NE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>18-38km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-44km/h NE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
