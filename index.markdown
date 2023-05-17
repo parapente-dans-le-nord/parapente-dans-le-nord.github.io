@@ -7,7 +7,7 @@ title:  "Ou ça vole"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le mardi 16 mai 22:03
+page mise à jour le mercredi 17 mai 07:03
 
 
 
@@ -28,8 +28,8 @@ page mise à jour le mardi 16 mai 22:03
         
             <td><div class="flyable"><p>11-18km/h NE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>14-29km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-33km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-38km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-35km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-44km/h NE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
