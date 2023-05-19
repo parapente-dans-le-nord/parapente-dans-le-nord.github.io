@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le vendredi 19 mai 06:20
+page mise à jour le vendredi 19 mai 10:20
 
 ## vendredi 19 mai
 
@@ -96,10 +96,10 @@ page mise à jour le vendredi 19 mai 06:20
 <tr>
         <td><strong>Mont Myon</strong><br><a href="https://windy.com/46.331/5.397?45.898,5.394,8,m:eWoagj8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=70">BALISE</a> </span><br> <span class="vent-favorable">SO, OSO, O, ONO, NO</span><br><span class="force-vent">de 0km/h jusqu'à 20km/h</span> </td>
         
-            <td><div class="flyable"><p>1-9km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>5-16km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-11km/h SSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>5-18km/h OSO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="flyable"><p>5-18km/h O</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>5-20km/h ONO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>5-18km/h ONO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -142,10 +142,10 @@ page mise à jour le vendredi 19 mai 06:20
 <tr>
         <td><strong>Mont Myon</strong><br><a href="https://windy.com/46.331/5.397?45.898,5.394,8,m:eWoagj8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=70">BALISE</a> </span><br> <span class="vent-favorable">SO, OSO, O, ONO, NO</span><br><span class="force-vent">de 0km/h jusqu'à 20km/h</span> </td>
         
-            <td><div class="flyable"><p>1-9km/h OSO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>5-16km/h ONO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>5-18km/h NO</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-22km/h NNE</p><p>🌧 0.4mm/h</p></div></td>
+            <td><div class="flyable"><p>1-9km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>5-16km/h NO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-22km/h NNO</p><p>🌧 0.6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-29km/h NNE</p><p>🌧 0.7mm/h</p></div></td>
             
         
     </tr>
@@ -178,10 +178,36 @@ page mise à jour le vendredi 19 mai 06:20
 <tr>
         <td><strong>Mont Myon</strong><br><a href="https://windy.com/46.331/5.397?45.898,5.394,8,m:eWoagj8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=70">BALISE</a> </span><br> <span class="vent-favorable">SO, OSO, O, ONO, NO</span><br><span class="force-vent">de 0km/h jusqu'à 20km/h</span> </td>
         
-            <td><div class="not-flyable"><p>1-12km/h NNO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>5-16km/h NO</p><p>🌧 0.2mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-27km/h NNO</p><p>🌧 0.7mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-27km/h NNE</p><p>🌧 1.6mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-11km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>11-24km/h N</p><p>🌧 0.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>11-27km/h N</p><p>🌧 0.4mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-38km/h NNE</p><p>🌧 0.6mm/h</p></div></td>
+            
+        
+    </tr>
+
+</tbody>
+</table>
+{:/}
+## mercredi 24 mai
+
+{::nomarkdown}
+<table>
+  <tbody>
+    <tr>
+      <td>Spot</td>
+      <td>8-11h</td>
+      <td>11-14h</td>
+      <td>14-17h</td>
+      <td>17h-20h</td>
+    </tr>
+<tr>
+        <td><strong>Mont Myon</strong><br><a href="https://windy.com/46.331/5.397?45.898,5.394,8,m:eWoagj8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=70">BALISE</a> </span><br> <span class="vent-favorable">SO, OSO, O, ONO, NO</span><br><span class="force-vent">de 0km/h jusqu'à 20km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>5-14km/h N</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>11-25km/h N</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-33km/h N</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-38km/h N</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
