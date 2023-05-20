@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le samedi 20 mai 06:26
+page mise à jour le samedi 20 mai 10:26
 
 ## samedi 20 mai
 
@@ -25,7 +25,7 @@ page mise à jour le samedi 20 mai 06:26
         <td><strong>Forclaz</strong><br><a href="https://windy.com/45.814/6.247?45.375,6.246,8,m:eVwaglz">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">N, NNO, NO, ONO, O</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
             <td><div class="flyable"><p>0-1km/h NNO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>5-11km/h ONO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>5-11km/h O</p><p>🌞 0mm/h</p></div></td>
             <td><div class="flyable"><p>5-12km/h NO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="flyable"><p>3-5km/h NO</p><p>🌞 0mm/h</p></div></td>
             
@@ -92,8 +92,8 @@ page mise à jour le samedi 20 mai 06:26
         
             <td><div class="not-flyable"><p>1-3km/h ENE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="flyable"><p>5-14km/h NO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>7-18km/h NO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-18km/h NNO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-18km/h ONO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-16km/h NNO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
