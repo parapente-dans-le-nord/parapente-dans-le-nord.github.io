@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le mardi 23 mai 10:10
+page mise à jour le mardi 23 mai 13:10
 
 ## mardi 23 mai
 
@@ -98,8 +98,8 @@ page mise à jour le mardi 23 mai 10:10
         
             <td><div class="not-flyable"><p>14-29km/h NE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>20-42km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-44km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>22-42km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-42km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-42km/h NE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -133,9 +133,9 @@ page mise à jour le mardi 23 mai 10:10
         <td><strong>Revin</strong><br><a href="https://windy.com/49.948/4.625?49.543,4.625,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=5019">BALISE</a> </span><br> <span class="vent-favorable">SSO, S, SSE</span><br><span class="force-vent">de 5km/h jusqu'à 15km/h</span> </td>
         
             <td><div class="not-flyable"><p>20-40km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>22-46km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>22-48km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>24-48km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-48km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>24-48km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>25-50km/h NNE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -178,10 +178,10 @@ page mise à jour le mardi 23 mai 10:10
 <tr>
         <td><strong>Revin</strong><br><a href="https://windy.com/49.948/4.625?49.543,4.625,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=5019">BALISE</a> </span><br> <span class="vent-favorable">SSO, S, SSE</span><br><span class="force-vent">de 5km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>12-29km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-33km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-37km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-37km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-33km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-33km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-37km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-38km/h NE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -205,16 +205,6 @@ page mise à jour le mardi 23 mai 10:10
         <td><strong>Haybes-Fumay</strong><br><a href="https://windy.com/49.998/4.715?49.913,4.738,10">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=104">BALISE</a> </span><br> <span class="vent-favorable">O, ONO, NO</span><br><span class="force-vent">de 10km/h jusqu'à 20km/h</span> </td>
         
             <td><div class="not-flyable"><p>11-22km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-27km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>14-33km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-33km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            
-        
-    </tr>
-<tr>
-        <td><strong>Revin</strong><br><a href="https://windy.com/49.948/4.625?49.543,4.625,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=5019">BALISE</a> </span><br> <span class="vent-favorable">SSO, S, SSE</span><br><span class="force-vent">de 5km/h jusqu'à 15km/h</span> </td>
-        
-            <td><div class="not-flyable"><p>11-20km/h ENE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>12-27km/h ENE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>14-33km/h ENE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>16-33km/h ENE</p><p>🌞 0mm/h</p></div></td>
