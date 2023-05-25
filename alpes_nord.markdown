@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le jeudi 25 mai 06:26
+page mise à jour le jeudi 25 mai 10:26
 
 ## jeudi 25 mai
 
@@ -128,8 +128,8 @@ page mise à jour le jeudi 25 mai 06:26
         
             <td><div class="not-flyable"><p>3-14km/h SE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>3-18km/h ONO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-25km/h NO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-29km/h O</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-27km/h NO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-27km/h ONO</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -182,10 +182,10 @@ page mise à jour le jeudi 25 mai 06:26
 <tr>
         <td><strong>Forclaz</strong><br><a href="https://windy.com/45.814/6.247?45.375,6.246,8,m:eVwaglz">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">N, NNO, NO, ONO, O</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>3-18km/h SE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>3-20km/h ONO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-25km/h NO</p><p>🌧 0.3mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-29km/h NO</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-18km/h ESE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-16km/h ONO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-29km/h NO</p><p>🌧 0.2mm/h</p></div></td>
+            <td><div class="not-flyable"><p>0-37km/h SSE</p><p>🌧 2.9mm/h</p></div></td>
             
         
     </tr>
@@ -218,10 +218,10 @@ page mise à jour le jeudi 25 mai 06:26
 <tr>
         <td><strong>Forclaz</strong><br><a href="https://windy.com/45.814/6.247?45.375,6.246,8,m:eVwaglz">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">N, NNO, NO, ONO, O</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>3-16km/h SE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>5-22km/h ONO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>7-29km/h NO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>1-33km/h ONO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-18km/h SE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-20km/h ONO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-27km/h N</p><p>🌧 1.9mm/h</p></div></td>
+            <td><div class="not-flyable"><p>1-25km/h E</p><p>🌧 1.1mm/h</p></div></td>
             
         
     </tr>
@@ -232,6 +232,32 @@ page mise à jour le jeudi 25 mai 06:26
             <td><div class="not-flyable"><p>3-18km/h O</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>5-29km/h NO</p><p>🌧 0.3mm/h</p></div></td>
             <td><div class="not-flyable"><p>3-31km/h SE</p><p>🌧 2.2mm/h</p></div></td>
+            
+        
+    </tr>
+
+</tbody>
+</table>
+{:/}
+## mardi 30 mai
+
+{::nomarkdown}
+<table>
+  <tbody>
+    <tr>
+      <td>Spot</td>
+      <td>8-11h</td>
+      <td>11-14h</td>
+      <td>14-17h</td>
+      <td>17h-20h</td>
+    </tr>
+<tr>
+        <td><strong>Forclaz</strong><br><a href="https://windy.com/45.814/6.247?45.375,6.246,8,m:eVwaglz">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">N, NNO, NO, ONO, O</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
+        
+            <td><div class="not-flyable"><p>5-20km/h SE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-22km/h ONO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-31km/h ONO</p><p>🌧 0.9mm/h</p></div></td>
+            <td><div class="not-flyable"><p>1-25km/h ONO</p><p>🌧 1mm/h</p></div></td>
             
         
     </tr>
