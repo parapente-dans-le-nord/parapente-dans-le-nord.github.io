@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le lundi 29 mai 13:16
+page mise à jour le lundi 29 mai 17:16
 
 ## lundi 29 mai
 
@@ -132,27 +132,27 @@ page mise à jour le lundi 29 mai 13:16
 <tr>
         <td><strong>Drumont</strong><br><a href="https://windy.com/47.898/6.919?47.687,6.919,9,m:eYYagmG">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">NE, ENE, E</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>12-40km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-53km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-53km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-50km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-42km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>22-55km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-55km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-48km/h ENE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
 <tr>
         <td><strong>Markstein le Treh</strong><br><a href="https://windy.com/47.926/7.012?47.505,7.012,8,m:eY1agmQ">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=136">BALISE</a> </span><br> <span class="vent-favorable">S, SSO, SO, OSO, O, ONO, NO</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>12-44km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-55km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-57km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-53km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-46km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-55km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-55km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-51km/h ENE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
 <tr>
         <td><strong>waga</strong><br><a href="https://windy.com/47.903/6.996?47.900,6.983,15">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">ONO, O, OSO</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>12-44km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-46km/h NE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>20-57km/h ENE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>18-57km/h ENE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>18-53km/h ENE</p><p>🌞 0mm/h</p></div></td>
@@ -188,10 +188,10 @@ page mise à jour le lundi 29 mai 13:16
 <tr>
         <td><strong>Drumont</strong><br><a href="https://windy.com/47.898/6.919?47.687,6.919,9,m:eYYagmG">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">NE, ENE, E</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>5-16km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-18km/h ENE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>11-29km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-35km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>9-31km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-31km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>7-25km/h NE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -208,20 +208,20 @@ page mise à jour le lundi 29 mai 13:16
 <tr>
         <td><strong>Markstein le Treh</strong><br><a href="https://windy.com/47.926/7.012?47.505,7.012,8,m:eY1agmQ">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=136">BALISE</a> </span><br> <span class="vent-favorable">S, SSO, SO, OSO, O, ONO, NO</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>5-18km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-22km/h NE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>11-33km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-38km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-35km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-33km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-29km/h NE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
 <tr>
         <td><strong>waga</strong><br><a href="https://windy.com/47.903/6.996?47.900,6.983,15">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">ONO, O, OSO</span><br><span class="force-vent">de 0km/h jusqu'à 15km/h</span> </td>
         
-            <td><div class="not-flyable"><p>5-18km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-20km/h NE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>11-33km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-38km/h ENE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-35km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-33km/h ENE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-29km/h ENE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
