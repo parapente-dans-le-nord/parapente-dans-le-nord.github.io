@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le mercredi 31 mai 13:20
+page mise à jour le mercredi 31 mai 17:20
 
 ## mercredi 31 mai
 
@@ -96,8 +96,8 @@ page mise à jour le mercredi 31 mai 13:20
         
             <td><div class="not-flyable"><p>3-11km/h SSO</p><p>🌞 0mm/h</p></div></td>
             <td><div class="flyable"><p>5-18km/h ONO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>7-25km/h N</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>11-27km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>9-25km/h N</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-29km/h N</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -140,10 +140,10 @@ page mise à jour le mercredi 31 mai 13:20
 <tr>
         <td><strong>Mont Myon</strong><br><a href="https://windy.com/46.331/5.397?45.898,5.394,8,m:eWoagj8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=70">BALISE</a> </span><br> <span class="vent-favorable">SO, OSO, O, ONO, NO</span><br><span class="force-vent">de 0km/h jusqu'à 20km/h</span> </td>
         
-            <td><div class="not-flyable"><p>5-14km/h S</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="flyable"><p>7-20km/h SO</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>3-22km/h S</p><p>🌧 1mm/h</p></div></td>
-            <td><div class="not-flyable"><p>1-22km/h ESE</p><p>🌧 0.5mm/h</p></div></td>
+            <td><div class="not-flyable"><p>3-12km/h S</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>7-20km/h OSO</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="flyable"><p>3-20km/h OSO</p><p>🌧 0.3mm/h</p></div></td>
+            <td><div class="not-flyable"><p>5-20km/h ESE</p><p>🌧 0.9mm/h</p></div></td>
             
         
     </tr>
