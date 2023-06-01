@@ -7,7 +7,7 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le jeudi 01 juin 13:46
+page mise à jour le jeudi 01 juin 17:46
 
 ## jeudi 01 juin
 
@@ -132,8 +132,8 @@ page mise à jour le jeudi 01 juin 13:46
 <tr>
         <td><strong>Clecy</strong><br><a href="https://windy.com/48.929/-0.470?48.516,-0.470,8">WINDY</a> - <span class=""><a href="http://www.balisemeteo.com/balise.php?idBalise=122">BALISE</a> </span><br> <span class="vent-favorable">S, O, SSO, OSO, ONO</span><br><span class="force-vent">de 5km/h jusqu'à 20km/h</span> </td>
         
-            <td><div class="not-flyable"><p>12-27km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-29km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-29km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-31km/h NE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>16-38km/h NE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>18-42km/h NNE</p><p>🌞 0mm/h</p></div></td>
             
@@ -144,7 +144,7 @@ page mise à jour le jeudi 01 juin 13:46
         
             <td><div class="not-flyable"><p>14-29km/h NE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>12-31km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-38km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>18-40km/h NE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>22-44km/h NNE</p><p>🌞 0mm/h</p></div></td>
             
         
@@ -190,8 +190,8 @@ page mise à jour le jeudi 01 juin 13:46
         
             <td><div class="not-flyable"><p>11-20km/h NNE</p><p>🌞 0mm/h</p></div></td>
             <td><div class="not-flyable"><p>12-29km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>16-38km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>20-42km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>14-35km/h NE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-38km/h NNE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
@@ -199,9 +199,9 @@ page mise à jour le jeudi 01 juin 13:46
         <td><strong>Roche a bunel</strong><br><a href="https://windy.com/48.993/-0.499?48.580,-0.499,8">WINDY</a> - <span class="no-balise"> BALISE </span><br> <span class="vent-favorable">E, ESE</span><br><span class="force-vent">de 5km/h jusqu'à 20km/h</span> </td>
         
             <td><div class="not-flyable"><p>11-20km/h NNE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>12-29km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>18-38km/h NE</p><p>🌞 0mm/h</p></div></td>
-            <td><div class="not-flyable"><p>22-44km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>12-29km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>16-35km/h NNE</p><p>🌞 0mm/h</p></div></td>
+            <td><div class="not-flyable"><p>20-42km/h NNE</p><p>🌞 0mm/h</p></div></td>
             
         
     </tr>
