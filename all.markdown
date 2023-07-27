@@ -7,5 +7,5 @@ title:  "Tous les spots"
 {: .links}
 
 # Prevision Windy, modèle Arome
-page mise à jour le jeudi 27 juillet 18:24
+page mise à jour le jeudi 27 juillet 20:24
 
